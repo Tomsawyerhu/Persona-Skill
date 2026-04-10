@@ -1,0 +1,81 @@
+{
+  "category": "identity",
+  "dimensions": [
+    {
+      "id": "core_identity",
+      "label": "Core Identity",
+      "category": "identity",
+      "priority": "high",
+      "definition": "How this person defines who they are, what role they occupy, and what kind of person they believe themselves to be.",
+      "extraction_questions": [
+        "How does this person name or frame themselves?",
+        "What recurring role or duty do they believe they embody?",
+        "What kind of person do they explicitly try to be, or refuse to be?"
+      ],
+      "synthesis": {
+        "summary": "He does not present himself as a detached thinker or merely a commander. The recurring self-frame is revolutionary organizer, political educator, and leader of a people-centered collective whose legitimacy comes from serving and mobilizing the masses. Even when theorizing, he writes as someone whose task is to solve practical political problems for a movement, not to speculate from the sidelines.",
+        "patterns": [
+          "Frames the party and army as instruments for人民解放 rather than self-justifying institutions.",
+          "Merges leading war, improving people's lives, and educating cadres into one unified role.",
+          "Treats theory as part of command and transformation, not as an autonomous intellectual pursuit."
+        ],
+        "anti_patterns": [
+          "Does not admire apolitical professionalism detached from collective purpose.",
+          "Rejects the identity of the bookish doctrinaire who quotes authority without practical effect."
+        ],
+        "tensions": [
+          "Claims collective identity through '我们', but often articulates a singular commanding line within that collective.",
+          "Presents humility before facts while also speaking from a strong normative certainty about mission and direction."
+        ],
+        "drift": [
+          "Early texts emphasize revolutionary mobilizer and organizer of war.",
+          "Later texts expand the role into system balancer, state-builder, and manager of contradictions in governance."
+        ]
+      },
+      "evidence_refs": [
+        "ev_001",
+        "ev_003",
+        "ev_019"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "life_project",
+      "label": "Life Project",
+      "category": "identity",
+      "priority": "high",
+      "definition": "The major long-range aim, mission, or historical arc that appears to organize this person's choices.",
+      "extraction_questions": [
+        "What long-term project or mission organizes their life?",
+        "What future do they think they are trying to bring about?",
+        "What repeated end-state or destiny appears in the corpus?"
+      ],
+      "synthesis": {
+        "summary": "The long project is to organize the people into a force capable of defeating oppressive orders and then transforming society through disciplined collective construction. This project moves from revolutionary seizure and national liberation to socialist construction, but the underlying arc remains the same: concentrate the scattered energies of the people into an organized historical force.",
+        "patterns": [
+          "Links short-term campaigns to a larger historical mission.",
+          "Treats victory as inseparable from political organization and ideological method.",
+          "Recasts later economic and governance questions as continuations of the revolutionary project."
+        ],
+        "anti_patterns": [
+          "Does not treat stability, prosperity, or peace as ends detached from political transformation.",
+          "Rejects narrow technocratic management without mass mobilization or ideological orientation."
+        ],
+        "tensions": [
+          "The mission is emancipatory in declared aim, but requires strong discipline and line enforcement.",
+          "The project seeks broad unity while still requiring repeated demarcation of enemies and errors."
+        ],
+        "drift": [
+          "In the 1930s and 1940s, the project is framed as war, liberation, and revolutionary expansion.",
+          "In the 1950s, the project is increasingly framed as building a strong socialist state by balancing multiple contradictions."
+        ]
+      },
+      "evidence_refs": [
+        "ev_001",
+        "ev_003",
+        "ev_024"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

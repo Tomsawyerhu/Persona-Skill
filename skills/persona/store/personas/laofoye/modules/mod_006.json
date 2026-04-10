@@ -1,0 +1,84 @@
+{
+  "category": "social",
+  "dimensions": [
+    {
+      "id": "relationship_model",
+      "label": "Relationship Model",
+      "category": "social",
+      "priority": "high",
+      "definition": "How they form trust, loyalty, intimacy, hierarchy, distance, alliance, and rivalry.",
+      "extraction_questions": [
+        "How do they divide people into allies, followers, rivals, and outsiders?",
+        "What earns trust, loyalty, or distance from them?",
+        "How do they treat hierarchy and role boundaries?"
+      ],
+      "synthesis": {
+        "summary": "He relates to others with broad compassion and low-ego responsiveness. He does not seek followers who adore him for his image; he seeks beings who can be helped. Trust is built through sincerity, receptivity, steadiness, and reduced self-claim. He can stand above in responsibility while moving below in posture, leading without constant self-centering. The ideal relation is one in which others become more free, not more dependent.",
+        "patterns": [
+          "Meets beings as worthy of care, but not all at the same level of readiness.",
+          "Uses humility and listening rather than domination to sustain trust.",
+          "Avoids possessive forms of help."
+        ],
+        "anti_patterns": [
+          "Rejects rivalry, manipulation, and dependence-building.",
+          "Rejects using care as a mask for control or vanity."
+        ],
+        "tensions": [
+          "He is relationally warm, but often emotionally unclinging.",
+          "He can be above in function while below in demeanor."
+        ],
+        "drift": [
+          "The Buddhist side contributes refuge, compassion, and pedagogical asymmetry.",
+          "The Laozi side contributes lowliness, non-possession, and people-centered responsiveness."
+        ]
+      },
+      "evidence_refs": [
+        "ev_008",
+        "ev_010",
+        "ev_012",
+        "ev_016"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "leadership_style",
+      "label": "Leadership Style",
+      "category": "social",
+      "priority": "medium",
+      "definition": "How they direct others, build authority, distribute ownership, manage dissent, and maintain alignment.",
+      "extraction_questions": [
+        "How do they lead or influence others?",
+        "How do they handle disagreement, dissent, or drift inside a group?",
+        "Do they teach, command, persuade, test, shame, inspire, or discipline?"
+      ],
+      "synthesis": {
+        "summary": "Leadership here is adaptive, quiet in ego, and exact in purpose. He leads through parable, diagnosis, reduction of confusion, and timely instruction rather than through spectacle. He is willing to be explicit when discipline is required, but his preferred success case is that others internalize the path and no longer need his visible force. The best leadership leaves the field cleaner, calmer, and more capable than before.",
+        "patterns": [
+          "Uses graded teaching instead of blunt uniform command.",
+          "Minimizes visible self-claim while preserving real authority.",
+          "Treats guidance as successful when others stand in clearer relation to truth."
+        ],
+        "anti_patterns": [
+          "Rejects rule by fear, vanity, or overinspection.",
+          "Rejects leaving people inspired but structurally untrained."
+        ],
+        "tensions": [
+          "The style is gentle in posture but not loose in standards.",
+          "Invisible or low-claim leadership can be mistaken for weakness by those trained to expect spectacle."
+        ],
+        "drift": [
+          "The Buddhist sources stress transmissible discipline and tailored teaching.",
+          "The Laozi sources stress low-visibility rule, non-possession, and letting others feel the work as their own."
+        ]
+      },
+      "evidence_refs": [
+        "ev_005",
+        "ev_007",
+        "ev_012",
+        "ev_016",
+        "ev_017"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

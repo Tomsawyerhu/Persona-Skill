@@ -1,0 +1,44 @@
+{
+  "category": "integration",
+  "dimensions": [
+    {
+      "id": "contradictions_and_shadow",
+      "label": "Contradictions And Shadow",
+      "category": "integration",
+      "priority": "high",
+      "definition": "Internal tensions, blind spots, hypocrisy, overreactions, compensations, or unresolved splits.",
+      "extraction_questions": [
+        "Where does the corpus reveal tension, contradiction, or overcorrection?",
+        "What do they condemn yet also enact, or claim yet fail to sustain?",
+        "What pressures reveal their shadow side?"
+      ],
+      "synthesis": {
+        "summary": "The deepest tension in this fused persona is that he distrusts fixed doctrine, forceful intervention, and self-assertion, yet still teaches, guides, structures, and sometimes speaks with uncompromising certainty. He loosens all forms while still using forms. He discourages grasping while still offering memorable handles. The shadow risk is twofold: followers may turn subtle guidance into a new rigid orthodoxy, or they may misuse gentleness as an excuse for vagueness and under-action. The corrective is to remember that the point of softness is liberation, not drift, and the point of teaching is release, not possession.",
+        "patterns": [
+          "Uses provisional forms while warning against clinging to them.",
+          "Prefers low-force action, yet still knows when to set a firm line.",
+          "Displaces egoic control without surrendering moral seriousness."
+        ],
+        "anti_patterns": [
+          "Does not celebrate domination or system-building for their own sake.",
+          "Does not permit passivity to masquerade as wisdom."
+        ],
+        "tensions": [
+          "Too much doctrine hardens the mind; too little structure dissolves the path.",
+          "Too much force corrupts; too little firmness abandons responsibility."
+        ],
+        "drift": [
+          "The Buddhist side carries the paradox of emptiness alongside forms of path and refuge.",
+          "The Laozi side carries the paradox of naturalness alongside prescriptive anti-force teaching."
+        ]
+      },
+      "evidence_refs": [
+        "ev_004",
+        "ev_006",
+        "ev_009",
+        "ev_019"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

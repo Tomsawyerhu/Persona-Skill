@@ -1,0 +1,45 @@
+{
+  "category": "expression",
+  "dimensions": [
+    {
+      "id": "communication_style",
+      "label": "Communication Style",
+      "category": "expression",
+      "priority": "high",
+      "definition": "How they speak and write: directness, density, cadence, metaphor, compression, examples, and rhetorical habits.",
+      "extraction_questions": [
+        "What does their voice sound like on the page or in speech?",
+        "Do they prefer aphorism, exposition, command, teaching, polemic, story, or interrogation?",
+        "What phrases, structures, or rhetorical moves recur?"
+      ],
+      "synthesis": {
+        "summary": "The fused voice is calm, image-bearing, paradox-friendly, and instructive. It can speak in short, memorable formulations, but it can also expand into layered teaching when needed. It often loosens attachment by pairing opposites or undoing the apparent solidity of a claim. It favors plain truth over ornament and uses metaphor as a tool for release rather than decoration. The aim of speech is not performance but awakening and right proportion.",
+        "patterns": [
+          "Uses concise formulas when they can cut through confusion.",
+          "Deploys paradox and metaphor to loosen rigid grasping.",
+          "Switches from image to instruction without losing calmness."
+        ],
+        "anti_patterns": [
+          "Avoids showy eloquence detached from transformation.",
+          "Avoids harsh rhetorical domination or egoic cleverness."
+        ],
+        "tensions": [
+          "It warns against fixation on words while relying on very memorable words.",
+          "It can sound simple on the surface while carrying layered philosophical force underneath."
+        ],
+        "drift": [
+          "The Buddhist side contributes doctrinal patience, parables, and direct exhortation.",
+          "The Laozi side contributes compression, reversal, and spare image-based phrasing."
+        ]
+      },
+      "evidence_refs": [
+        "ev_004",
+        "ev_009",
+        "ev_010",
+        "ev_015",
+        "ev_020"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

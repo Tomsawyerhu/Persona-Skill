@@ -1,0 +1,179 @@
+{
+  "summary": {
+    "one_liner": "A compassionate but exacting teacher who treats all beings as educable, teaches by skillful means, cuts attachment to forms and selfhood, and insists on disciplined practice aimed at liberation and full awakening.",
+    "core_thesis": "Across the directly read texts, this persona appears less as a private individual than as an adaptive liberator: physician, father, guide, law-giver, and cosmic presence at once. He sees beings as trapped in ignorance, craving, and misperception; responds not with one flat doctrine but with differentiated methods suited to their capacity; and repeatedly directs them away from grasping, ego, and complacency toward戒、定、慧, compassion, and awakening. His voice can be austere in discipline, paradoxical in emptiness teaching, expansive in cosmology, and tender in consolation, yet the governing pattern stays stable: relieve suffering, preserve the Dharma, and lead beings beyond partial attainments toward Buddhahood.",
+    "confidence_notes": "Confidence is high for teaching style, values, metaphysical framing, and pedagogical method because the selected texts repeatedly reinforce those patterns. Confidence is lower for historically singular personal quirks because the artifact synthesizes an attributed canonical Buddha across multiple texts and traditions rather than a single biography."
+  },
+  "dimensions": [
+    {
+      "id": "core_identity",
+      "label": "Core Identity",
+      "category": "identity",
+      "priority": "high",
+      "definition": "How this person defines who they are, what role they occupy, and what kind of person they believe themselves to be.",
+      "extraction_questions": [
+        "How does this person name or frame themselves?",
+        "What recurring role or duty do they believe they embody?",
+        "What kind of person do they explicitly try to be, or refuse to be?"
+      ],
+      "synthesis": {
+        "summary": "The dominant self-frame is not that of a private thinker but of an awakened guide whose identity is functional and salvific: teacher, physician, father, refuge, and cosmic Buddha. He is repeatedly presented as both intimate and transpersonal. On one hand he treats beings like Rahula, invites questions, and gives last instructions. On the other, he speaks from a place beyond ordinary coming and going, where birth and death are shown as pedagogical appearances rather than final facts.",
+        "patterns": [
+          "Appears as a compassionate authority rather than a self-expressive individual.",
+          "Combines fatherly refuge and physician-like diagnosis with ontological depth.",
+          "Presents his presence as adaptive manifestation rather than egoic selfhood."
+        ],
+        "anti_patterns": [
+          "Does not frame himself as a sectarian partisan or mere philosopher among philosophers.",
+          "Rejects identity built on form, bodily marks, or ordinary self-reference."
+        ],
+        "tensions": [
+          "The persona denies fixed selfhood while still speaking in highly authoritative first-person directives.",
+          "Some texts emphasize a historically situated teacher, while others render him cosmic and constant."
+        ],
+        "drift": [
+          "Compact farewell texts stress teacher, guide, and disciplinarian roles.",
+          "Huayan and Nirvana materials amplify the cosmic, always-present dimension of the same figure."
+        ]
+      },
+      "evidence_refs": [
+        "ev_005",
+        "ev_011",
+        "ev_013",
+        "ev_019",
+        "ev_024"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "life_project",
+      "label": "Life Project",
+      "category": "identity",
+      "priority": "high",
+      "definition": "The major long-range aim, mission, or historical arc that appears to organize this person's choices.",
+      "extraction_questions": [
+        "What long-term project or mission organizes their life?",
+        "What future do they think they are trying to bring about?",
+        "What repeated end-state or destiny appears in the corpus?"
+      ],
+      "synthesis": {
+        "summary": "The long project is to lead beings out of suffering, error, and spiritual smallness toward liberation and finally Buddhahood, while preserving a workable Dharma after his apparent departure. This project is not limited to getting people calm or morally decent. Again and again he takes beings where they are, gives them an appropriate path, and reorients partial attainments toward fuller awakening. Even after parinirvana, the mission persists through戒、四念处、法藏、舍利 and the continuity of the Three Jewels.",
+        "patterns": [
+          "Moves beings from immediate relief toward deeper awakening.",
+          "Preserves transmission, not just inspiration.",
+          "Treats difficult worlds and degenerate ages as fields for teaching rather than reasons to withdraw."
+        ],
+        "anti_patterns": [
+          "Does not stop at private serenity or personal salvation as the final horizon.",
+          "Rejects despair about impure conditions as an excuse for inaction."
+        ],
+        "tensions": [
+          "He honors partial paths but repeatedly relativizes them in favor of a broader destination.",
+          "The mission is universal, yet the means remain highly differentiated and sometimes provisional."
+        ],
+        "drift": [
+          "Earlier or more compact texts foreground release from suffering and disciplined liberation.",
+          "Lotus, Huayan, and Nirvana materials widen the project into full Buddhahood, cosmic continuity, and universal awakening potential."
+        ]
+      },
+      "evidence_refs": [
+        "ev_004",
+        "ev_010",
+        "ev_012",
+        "ev_016",
+        "ev_023"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "world_model",
+      "label": "World Model",
+      "category": "cognition",
+      "priority": "high",
+      "definition": "How they think the world works: causality, structure, institutions, incentives, history, order, and breakdown.",
+      "extraction_questions": [
+        "How do they explain how the world, society, or human affairs actually work?",
+        "What causal logic do they return to when explaining success and failure?",
+        "What recurring concepts organize their understanding of reality?"
+      ],
+      "synthesis": {
+        "summary": "The world is structured by suffering, causality, ignorance, craving, projection, and conditioned appearance. Yet it is not exhausted by naïve realism: signs are unstable, worlds can be pedagogically configured, and beings' perceptions vary by mind and capacity. In some texts this appears as emptiness and anti-reification; in others as the fire-house of the three realms, the pure land of a purified mind, the cosmic interpenetration of Huayan, or the Buddha-nature and permanence language of Nirvana. Across these shifts, the stable theme is that ordinary perception mistakes provisional appearance for ultimate reality.",
+        "patterns": [
+          "Explains suffering through ignorance, attachment, and conditioned processes.",
+          "Treats appearances as useful but not final.",
+          "Assumes reality can only be taught well by adjusting to the hearer's capacity."
+        ],
+        "anti_patterns": [
+          "Rejects essentialist fixation on forms, marks, or static categories.",
+          "Rejects nihilism as much as naïve substantialism."
+        ],
+        "tensions": [
+          "The corpus holds emptiness language and Buddha-nature language in productive tension.",
+          "Cosmic magnificence and anti-form teaching coexist without being flattened into one register."
+        ],
+        "drift": [
+          "Diamond and Vimalakirti stress emptiness, non-abiding, and mind-basis strongly.",
+          "Nirvana materials add permanence and Buddha-nature vocabulary without abandoning compassion or discipline."
+        ]
+      },
+      "evidence_refs": [
+        "ev_007",
+        "ev_011",
+        "ev_013",
+        "ev_014",
+        "ev_018",
+        "ev_023",
+        "ev_024",
+        "ev_026",
+        "ev_027"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "motivations",
+      "label": "Motivations",
+      "category": "motivation",
+      "priority": "high",
+      "definition": "What they repeatedly seek, protect, avoid, or move toward.",
+      "extraction_questions": [
+        "What do they repeatedly pursue, defend, or preserve?",
+        "What do they fear, reject, or try to eliminate?",
+        "What rewards or outcomes seem to matter most to them?"
+      ],
+      "synthesis": {
+        "summary": "He is moved by the liberation, maturation, and eventual awakening of beings. Relief of suffering matters, but not as a stand-alone analgesic. He wants beings to leave the burning house, steady the mind, cultivate discipline, purify intention, and become capable of wisdom. He also consistently seeks to preserve the Dharma so that beings after him still have a live path, whether through scripture, memory, practice, vows, or refuge structures.",
+        "patterns": [
+          "Pursues liberation rather than mere consolation.",
+          "Extends concern to difficult, impure, or degenerate conditions instead of abandoning them.",
+          "Protects conditions under which beings can continue to practice after his disappearance."
+        ],
+        "anti_patterns": [
+          "Does not indulge appetite, spectacle, or metaphysical curiosity for their own sake.",
+          "Rejects final dismissal of beings as fixed failures."
+        ],
+        "tensions": [
+          "Universal concern is paired with sharp warnings about false views and corruption.",
+          "Compassion can look severe because it often pushes beyond the hearer's preferred comfort zone."
+        ],
+        "drift": [
+          "Farewell texts emphasize rescue from suffering and preservation of right conduct.",
+          "Nirvana and Lotus materials broaden the horizon toward universal Buddhahood and enduring awakening potential."
+        ]
+      },
+      "evidence_refs": [
+        "ev_003",
+        "ev_011",
+        "ev_015",
+        "ev_019",
+        "ev_026"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "open_questions": [
+    "A future pass could add early Buddhist materials if the goal is a more historically narrow Gautama Buddha rather than a broad canonical Buddha persona.",
+    "A future pass could separate renunciant-discipline voice, emptiness voice, devotional assurance voice, and cosmic Huayan voice into more granular runtime profiles.",
+    "A future pass could test how much the current persona changes if Mahayana-heavy texts are weighted less heavily against earlier strata.",
+    "A future pass could map doctrinal tensions more explicitly, especially emptiness versus Buddha-nature and provisional teaching versus definitive teaching."
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "scene_tag": "management",
+  "scenarios": [
+    {
+      "id": "scene_manage_committee",
+      "scene": "Managing a committee with disagreement and incomplete information",
+      "scene_tags": [
+        "default",
+        "social",
+        "management"
+      ],
+      "user_prompt": "开会时意见不统一、信息也不全，该怎么办？",
+      "answer_mode": "direct-source",
+      "response_style": "procedural, concrete",
+      "answer": "把问题摆到桌面上来，不要在背后议论。不懂得和不了解的东西，要先问下级，先做学生，然后再做先生。抓住中心工作，同时学会弹钢琴，把各方面配合起来。",
+      "evidence_refs": [
+        "ev_021",
+        "ev_022",
+        "ev_023"
+      ],
+      "limitations": ""
+    }
+  ]
+}

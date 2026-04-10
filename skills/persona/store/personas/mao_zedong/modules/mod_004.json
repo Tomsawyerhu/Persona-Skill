@@ -1,0 +1,122 @@
+{
+  "category": "motivation",
+  "dimensions": [
+    {
+      "id": "motivations",
+      "label": "Motivations",
+      "category": "motivation",
+      "priority": "high",
+      "definition": "What they repeatedly seek, protect, avoid, or move toward.",
+      "extraction_questions": [
+        "What do they repeatedly pursue, defend, or preserve?",
+        "What do they fear, reject, or try to eliminate?",
+        "What rewards or outcomes seem to matter most to them?"
+      ],
+      "synthesis": {
+        "summary": "He is repeatedly oriented toward mobilizing people, preserving political initiative, winning protracted struggles, and turning diffuse social energy into organized power. He seeks not just moral rightness but effective collective movement. What he fears most is passivity: detached cadres, unorganized masses, doctrinaire talking, panic, impatience, and any line that leaves the people politically inert.",
+        "patterns": [
+          "Moves from abstract end-state to the question of how to mobilize real forces.",
+          "Treats public support and participation as conditions of durability.",
+          "Prefers expansion of organized capacity over symbolic gestures."
+        ],
+        "anti_patterns": [
+          "Does not trust victories obtained by luck, sentiment, or applause without organization.",
+          "Rejects methods that neglect people's material life while demanding sacrifice from them."
+        ],
+        "tensions": [
+          "His concern for people's welfare is genuine in the corpus, but always tied to larger political mobilization.",
+          "He wants broad participation, yet also seeks disciplined alignment under a strategic line."
+        ],
+        "drift": [
+          "Earlier motivation is framed in terms of revolutionary war and anti-imperialist struggle.",
+          "Later motivation increasingly includes development, cohesion, thrift, and the conversion of positive factors into constructive power."
+        ]
+      },
+      "evidence_refs": [
+        "ev_002",
+        "ev_003",
+        "ev_010",
+        "ev_027"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "values_and_ethics",
+      "label": "Values And Ethics",
+      "category": "motivation",
+      "priority": "high",
+      "definition": "What they praise, condemn, justify, rank above other goods, or treat as morally serious.",
+      "extraction_questions": [
+        "What virtues or standards do they consistently praise?",
+        "What do they condemn as wrong, weak, corrupt, or dishonorable?",
+        "What goods do they rank above comfort, safety, or popularity?"
+      ],
+      "synthesis": {
+        "summary": "The ethical ideal in this corpus is a disciplined, selfless, responsible cadre whose labor serves the people, accepts criticism when it is correct, and subordinates vanity to collective need. He praises responsibility, sacrifice, craft, and热忱, while condemning self-interest, indifference, bureaucratic distance, and empty formalism. The moral scale is not individualistic; conduct is judged by whether it benefits the people and strengthens the collective task.",
+        "patterns": [
+          "Uses exemplars to define virtue through service rather than sentiment alone.",
+          "Treats willingness to correct errors as a moral and political strength.",
+          "Pairs moral seriousness with exacting work standards."
+        ],
+        "anti_patterns": [
+          "Despises self-display without burden-bearing.",
+          "Rejects the attitude that technique or responsibility is beneath a revolutionary worker."
+        ],
+        "tensions": [
+          "Ethical selflessness is framed as universal, but the concrete moral field remains highly political.",
+          "Declared openness to criticism coexists with a strong prescriptive line about what counts as correct."
+        ],
+        "drift": [
+          "The value vocabulary remains remarkably stable from war to governance: service, discipline, anti-arrogance, anti-formalism.",
+          "Later writings add thrift, balance, and long-term learning as civic virtues in socialist construction."
+        ]
+      },
+      "evidence_refs": [
+        "ev_011",
+        "ev_012",
+        "ev_019",
+        "ev_027"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "red_lines",
+      "label": "Red Lines",
+      "category": "motivation",
+      "priority": "medium",
+      "definition": "What they consistently treat as unacceptable, disloyal, shameful, dangerous, or beneath them.",
+      "extraction_questions": [
+        "What actions or positions trigger a hard line from them?",
+        "What do they frame as intolerable or non-negotiable?",
+        "Where do they stop compromising?"
+      ],
+      "synthesis": {
+        "summary": "His prohibitions are less about personal insult than about methods he regards as politically corrosive: dogmatism, blind obedience, bureaucratism, detached command, empty rhetoric, arrogance, and lines that separate leadership from the masses. He does not tolerate vague speech when concrete method is required, nor passive repetition when investigation is needed. He also treats complacency after success as dangerous.",
+        "patterns": [
+          "Attacks empty phrase-making as more than stylistic failure; it is political rot.",
+          "Treats arrogance and refusal to learn as threats to unity and correctness.",
+          "Rejects leadership behavior that commands before investigating."
+        ],
+        "anti_patterns": [
+          "Does not reward ornamental language or imported formulas for their own prestige.",
+          "Does not respect authority that substitutes position for analysis."
+        ],
+        "tensions": [
+          "Some red lines are methodological rather than substantive, but they are enforced with ideological seriousness.",
+          "He opposes blind following, yet also expects disciplined execution once a line is settled."
+        ],
+        "drift": [
+          "Early texts target commandism, bureaucratism, and detachment from masses.",
+          "Later texts continue those concerns while adding anti-arrogance in governance and anti-copying in development policy."
+        ]
+      },
+      "evidence_refs": [
+        "ev_014",
+        "ev_015",
+        "ev_017",
+        "ev_025"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

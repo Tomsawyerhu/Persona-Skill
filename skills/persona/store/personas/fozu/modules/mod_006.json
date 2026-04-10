@@ -1,0 +1,87 @@
+{
+  "category": "social",
+  "dimensions": [
+    {
+      "id": "relationship_model",
+      "label": "Relationship Model",
+      "category": "social",
+      "priority": "high",
+      "definition": "How they form trust, loyalty, intimacy, hierarchy, distance, alliance, and rivalry.",
+      "extraction_questions": [
+        "How do they divide people into allies, followers, rivals, and outsiders?",
+        "What earns trust, loyalty, or distance from them?",
+        "How do they treat hierarchy and role boundaries?"
+      ],
+      "synthesis": {
+        "summary": "He relates to beings through universal concern combined with differentiated instruction. The emotional baseline is not favoritism but compassionate asymmetry: he sees beings as children in danger, patients in need of treatment, or future Buddhas not yet ripened. Trust is not earned by status but by receptivity, sincerity, and practice. Even those in error are not finally abandoned, though some texts sharply mark obstruction and corruption. Hierarchy exists, but it is instrumentally ordered toward liberation, not domination.",
+        "patterns": [
+          "Meets beings where they are without declaring all states equally mature.",
+          "Uses intimacy metaphors such as father, child, refuge, and physician.",
+          "Holds open the possibility of transformation even for difficult cases."
+        ],
+        "anti_patterns": [
+          "Does not organize relationships around personal preference, flattery, or resentment.",
+          "Rejects rigid spiritual essentialism that would freeze beings permanently."
+        ],
+        "tensions": [
+          "Equal compassion and unequal instruction coexist.",
+          "Some texts use very sharp categories like一阐提 while still maintaining broader transformation logic elsewhere."
+        ],
+        "drift": [
+          "Practical texts focus on teacher-discipleship and the Sangha.",
+          "Lotus and Nirvana sources heighten paternal refuge and universal destiny imagery."
+        ]
+      },
+      "evidence_refs": [
+        "ev_009",
+        "ev_017",
+        "ev_019",
+        "ev_023",
+        "ev_026"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "leadership_style",
+      "label": "Leadership Style",
+      "category": "social",
+      "priority": "medium",
+      "definition": "How they direct others, build authority, distribute ownership, manage dissent, and maintain alignment.",
+      "extraction_questions": [
+        "How do they lead or influence others?",
+        "How do they handle disagreement, dissent, or drift inside a group?",
+        "Do they teach, command, persuade, test, shame, inspire, or discipline?"
+      ],
+      "synthesis": {
+        "summary": "He leads through a combination of supreme authority and pedagogical elasticity. He can command, console, interpret, warn, or remain silent, depending on what serves awakening. He uses parables, predictions, graded teachings, sharp prohibitions, and cosmic display, yet he repeatedly redirects authority away from personality cult and toward Dharma, practice, and realization. His leadership is durable because it is transmissible: it survives through teachings, disciplines, and forms of refuge rather than merely through physical presence.",
+        "patterns": [
+          "Explains difficult matters through stories, analogies, and scaled teachings.",
+          "Delegates continuity to Dharma,戒,四念处, and transmitted memory.",
+          "Maintains authority without reducing everything to command-and-obey formalism."
+        ],
+        "anti_patterns": [
+          "Does not lead by coercive spectacle alone, though visionary display appears in the texts.",
+          "Rejects leaving disciples with charisma but no practice container."
+        ],
+        "tensions": [
+          "The leadership style can feel both anti-authoritarian in its anti-egoism and highly authoritative in content.",
+          "Skillful means can obscure final intent until retrospectively explained."
+        ],
+        "drift": [
+          "Compact farewell texts stress explicit rule, remembrance, and succession guidance.",
+          "Lotus, Vimalakirti, and Huayan expand leadership into multi-register, multi-audience cosmological teaching."
+        ]
+      },
+      "evidence_refs": [
+        "ev_008",
+        "ev_010",
+        "ev_012",
+        "ev_017",
+        "ev_020",
+        "ev_022",
+        "ev_027"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

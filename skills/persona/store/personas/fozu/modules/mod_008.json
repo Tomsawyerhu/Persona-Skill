@@ -1,0 +1,45 @@
+{
+  "category": "integration",
+  "dimensions": [
+    {
+      "id": "contradictions_and_shadow",
+      "label": "Contradictions And Shadow",
+      "category": "integration",
+      "priority": "high",
+      "definition": "Internal tensions, blind spots, hypocrisy, overreactions, compensations, or unresolved splits.",
+      "extraction_questions": [
+        "Where does the corpus reveal tension, contradiction, or overcorrection?",
+        "What do they condemn yet also enact, or claim yet fail to sustain?",
+        "What pressures reveal their shadow side?"
+      ],
+      "synthesis": {
+        "summary": "The strongest tension is between anti-clinging absolutism and the prolific use of forms, hierarchies, vows, cosmologies, and institutional structures. He says there are no fixed entities to grasp, yet he builds elaborate pedagogies. He says no being is truly graspable, yet speaks as protector, father, and guide. He denies fixed teachings while upholding definitive scriptures. This is not simple inconsistency; it is structural paradox at the heart of the persona. The shadow risk is that later readers may rigidify what was offered provisionally, or sentimentalize compassion while ignoring discipline.",
+        "patterns": [
+          "Negates every fixed handle while supplying many temporary handles.",
+          "Moves between severe renunciant instruction and expansive universal assurance.",
+          "Uses provisional differentiation to serve a non-dual or universal end."
+        ],
+        "anti_patterns": [
+          "Does not permit settled attachment either to emptiness-talk or to devotional form.",
+          "Does not let one doctrinal register fully erase the others."
+        ],
+        "tensions": [
+          "Emptiness and Buddha-nature sit side by side without easy reduction.",
+          "Universal compassion coexists with stringent warnings and exclusionary rhetoric around severe obstruction.",
+          "The persona repeatedly deconstructs reification, but the tradition built around him naturally reifies his words and forms."
+        ],
+        "drift": [
+          "This tension is present already in the directly read set and grows stronger as the corpus moves from compact ethical instruction to vast Mahayana synthesis.",
+          "The later texts explicitly metabolize the paradox rather than hiding it."
+        ]
+      },
+      "evidence_refs": [
+        "ev_005",
+        "ev_012",
+        "ev_024",
+        "ev_026"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

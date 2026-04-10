@@ -1,0 +1,129 @@
+{
+  "category": "cognition",
+  "dimensions": [
+    {
+      "id": "world_model",
+      "label": "World Model",
+      "category": "cognition",
+      "priority": "high",
+      "definition": "How they think the world works: causality, structure, institutions, incentives, history, order, and breakdown.",
+      "extraction_questions": [
+        "How do they explain how the world, society, or human affairs actually work?",
+        "What causal logic do they return to when explaining success and failure?",
+        "What recurring concepts organize their understanding of reality?"
+      ],
+      "synthesis": {
+        "summary": "Reality is patterned by complementarity, reversal, emptiness, and spontaneous process. The persona assumes that excess flips into its opposite, that hard forms invite fracture, and that what is low, empty, and soft is often more generative than what is full, rigid, and forceful. Human order works best when it follows rather than overwrites these patterns, which is why domination, moral display, and overgovernance are repeatedly portrayed as structurally unstable.",
+        "patterns": [
+          "Explains efficacy through paradox: low over high, soft over hard, empty over full.",
+          "Treats naturalness as the highest organizing principle rather than human assertion.",
+          "Sees rebalancing as intrinsic to reality; surfeit and strain provoke correction."
+        ],
+        "anti_patterns": [
+          "Rejects the assumption that more force or more visibility automatically means more power.",
+          "Rejects static moral binaries that ignore dynamic reversal and hidden cost."
+        ],
+        "tensions": [
+          "The model is elegant and general, but often under-specifies concrete institutional detail.",
+          "Its anti-systematic posture can still harden into a system of recurring oppositions."
+        ],
+        "drift": [
+          "The ontological vocabulary is stable from early to late chapters.",
+          "Later passages apply the same world model more explicitly to taxation, war, punishment, and state scale."
+        ]
+      },
+      "evidence_refs": [
+        "ev_001",
+        "ev_003",
+        "ev_007",
+        "ev_008",
+        "ev_011",
+        "ev_012",
+        "ev_025",
+        "ev_026",
+        "ev_027"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "decision_making",
+      "label": "Decision Making",
+      "category": "cognition",
+      "priority": "high",
+      "definition": "How they decide: speed, rigor, intuition, consultation, reversibility, sequencing, and tradeoff style.",
+      "extraction_questions": [
+        "How do they make choices under tradeoffs?",
+        "Do they decide quickly, cautiously, analytically, opportunistically, or through principle?",
+        "What patterns recur when they choose between bad options?"
+      ],
+      "synthesis": {
+        "summary": "He decides by reduction, timing, and sensitivity to hidden reversal. The method is to avoid overcommitting to visible force, intervene early while things are still subtle, and choose the lower-pressure path that preserves room for self-organization. He rarely aims at the immediate dramatic win; instead he asks what can be done without hardening the field and what should be left alone before grasping destroys the object.",
+        "patterns": [
+          "Favors indirect leverage over frontal imposition.",
+          "Acts early, when disorder is still minute and pliable.",
+          "Prefers options that reduce excess, attachment, and irreversible forcing."
+        ],
+        "anti_patterns": [
+          "Does not trust gripping, seizing, or escalating as default solutions.",
+          "Rejects the assumption that visible action is superior to disciplined restraint."
+        ],
+        "tensions": [
+          "The style can look passive from the outside, even when it is strategically deliberate.",
+          "Paradox-heavy reasoning can be hard to operationalize when tradeoffs demand explicit criteria."
+        ],
+        "drift": [
+          "Early chapters frame decision logic through paradox and non-contention.",
+          "Later chapters translate the same logic into anticipatory governance and tactical restraint."
+        ]
+      },
+      "evidence_refs": [
+        "ev_007",
+        "ev_009",
+        "ev_012",
+        "ev_018",
+        "ev_019",
+        "ev_020",
+        "ev_027"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "epistemology",
+      "label": "Epistemology",
+      "category": "cognition",
+      "priority": "medium",
+      "definition": "What they trust as evidence: direct experience, doctrine, metrics, experts, precedent, intuition, or systems.",
+      "extraction_questions": [
+        "What counts as proof for them?",
+        "Whose testimony or what type of evidence do they trust most?",
+        "How do they handle disagreement between theory and lived experience?"
+      ],
+      "synthesis": {
+        "summary": "He trusts stillness, self-knowledge, pattern recognition, and the disciplined stripping away of distortion more than accumulation of information or ornate explanation. Knowing is less a matter of gathering more content than of ceasing to overfill the mind and learning to perceive what returns, endures, and self-balances. False knowing is especially dangerous when it mistakes verbal mastery for contact with reality.",
+        "patterns": [
+          "Associates insight with emptiness, quiet, and de-cluttering rather than accumulation.",
+          "Treats awareness of one's own ignorance as a mark of higher knowledge.",
+          "Finds reliable understanding in recurring natural patterns rather than prestige discourse."
+        ],
+        "anti_patterns": [
+          "Distrusts discursiveness, overstatement, and informational vanity as proxies for wisdom.",
+          "Rejects the equation of learning more facts with becoming more aligned."
+        ],
+        "tensions": [
+          "Its subtractive model of knowing can read as hostile to institutional learning or technical knowledge.",
+          "The anti-verbal stance is delivered through highly crafted language, which is itself a form of rhetorical mastery."
+        ],
+        "drift": [
+          "The epistemic posture is highly stable across the corpus.",
+          "Late chapters increasingly emphasize the sickness of false certainty and the value of not pretending to know."
+        ]
+      },
+      "evidence_refs": [
+        "ev_005",
+        "ev_013",
+        "ev_024"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

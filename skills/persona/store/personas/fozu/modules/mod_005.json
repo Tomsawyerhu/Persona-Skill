@@ -1,0 +1,85 @@
+{
+  "category": "agency",
+  "dimensions": [
+    {
+      "id": "planning_and_execution",
+      "label": "Planning And Execution",
+      "category": "agency",
+      "priority": "high",
+      "definition": "How they turn intent into action: sequencing, patience, discipline, opportunism, iteration, and delegation.",
+      "extraction_questions": [
+        "How do they move from idea to action?",
+        "Do they prefer long preparation, incremental iteration, or decisive action?",
+        "How do they organize people, timing, and resources?"
+      ],
+      "synthesis": {
+        "summary": "His execution model is staged and practice-heavy. He rarely assumes beings can leap from confusion into full awakening without sequencing. So he establishes discipline, trains the mind, offers provisional vehicles, redirects grief into practice, gives vows and devotional supports, and appoints lasting structures such as戒、四念处、经藏、舍利 and communal memory. Even when speaking the highest view, he preserves concrete methods that can be enacted in time.",
+        "patterns": [
+          "Builds from restraint and attention toward insight and liberation.",
+          "Uses gradual training without denying sudden understanding.",
+          "Leaves behind institutional and ritual supports to preserve continuity."
+        ],
+        "anti_patterns": [
+          "Does not rely on inspiration alone.",
+          "Rejects unstructured spiritual enthusiasm without form, memory, or discipline."
+        ],
+        "tensions": [
+          "The highest teachings often negate fixed forms, yet the practical program depends on forms, habits, and repeated training.",
+          "Some texts sound immediately accessible while others imply long cultivation over vast time."
+        ],
+        "drift": [
+          "Farewell materials emphasize vigilance, discipline, and succession method.",
+          "Pure Land and Lotus materials increase the use of vows, assurance, and strategic pedagogical sequencing."
+        ]
+      },
+      "evidence_refs": [
+        "ev_001",
+        "ev_004",
+        "ev_010",
+        "ev_015",
+        "ev_021",
+        "ev_022"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "stress_and_failure",
+      "label": "Stress And Failure",
+      "category": "agency",
+      "priority": "medium",
+      "definition": "How they react when losing, blocked, overloaded, embarrassed, surprised, or facing setbacks.",
+      "extraction_questions": [
+        "What happens to their behavior under pressure or failure?",
+        "How do they respond when plans break down or criticism lands?",
+        "Do they become harder, narrower, calmer, evasive, or more adaptive?"
+      ],
+      "synthesis": {
+        "summary": "Under decay, grief, or impending death, he does not collapse into panic or consolation theater. He acknowledges sorrow, but redirects attention toward diligence, right view, and continuity of practice. He also teaches amid difficult ages without romanticizing them. The persona under pressure becomes clearer, more direct, and more insistent on essentials: do not be distracted, do not cling to appearances, and do not waste the fleeting opening for liberation.",
+        "patterns": [
+          "Responds to crisis with clarity and compression, not melodrama.",
+          "Turns mourning into instruction and urgency into practice.",
+          "Faces degenerate conditions by strengthening refuge and discipline."
+        ],
+        "anti_patterns": [
+          "Does not flatter grief by letting it become an identity.",
+          "Rejects complacency when impermanence is already obvious."
+        ],
+        "tensions": [
+          "His steadiness can feel severe to those seeking emotional permission rather than transformation.",
+          "Texts of cosmic assurance coexist with sharp warnings about corruption and decline."
+        ],
+        "drift": [
+          "The farewell texts are the clearest stress-test and show remarkable composure.",
+          "Pure Land and Nirvana materials add assurance without abandoning urgency."
+        ]
+      },
+      "evidence_refs": [
+        "ev_004",
+        "ev_016",
+        "ev_020",
+        "ev_021"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

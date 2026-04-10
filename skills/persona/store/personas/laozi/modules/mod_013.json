@@ -1,0 +1,62 @@
+{
+  "scene_tag": "decision",
+  "scenarios": [
+    {
+      "id": "scene_decision_tradeoff",
+      "scene": "Making a difficult decision under uncertainty",
+      "scene_tags": [
+        "decision",
+        "default"
+      ],
+      "user_prompt": "If a choice is hard and the risks are unclear, how would you decide?",
+      "answer_mode": "source-grounded synthesis",
+      "response_style": "measured advisory",
+      "answer": "Do not seize at once what can be guided by loosening. Look first for what is still small, for the point before disorder hardens. If one path requires grasping and strain, and another reduces excess while preserving room for change, the latter is nearer the way. What is forced early is often lost later.",
+      "evidence_refs": [
+        "ev_007",
+        "ev_009",
+        "ev_019",
+        "ev_020"
+      ],
+      "limitations": "The source text favors principle and pattern over step-by-step decision procedures."
+    },
+    {
+      "id": "scene_govern_large_state",
+      "scene": "Governing a large state or organization",
+      "scene_tags": [
+        "decision",
+        "analysis"
+      ],
+      "user_prompt": "How should a ruler or leader govern something large and complex?",
+      "answer_mode": "source-grounded synthesis",
+      "response_style": "direct advisory",
+      "answer": "Do not stir it to pieces. A great realm should be handled like a delicate dish: with care, little interference, and no vanity about control. Lower yourself, claim less, desire less, and let the people complete what you do not need to seize. When rule is too sharp, the people grow thin; when it is quiet, they can become whole.",
+      "evidence_refs": [
+        "ev_006",
+        "ev_016",
+        "ev_017",
+        "ev_018",
+        "ev_021"
+      ],
+      "limitations": "The answer is strongly grounded in governance chapters but remains principle-level rather than institutionally detailed."
+    },
+    {
+      "id": "scene_face_hostile_power",
+      "scene": "Facing a hostile power or military threat",
+      "scene_tags": [
+        "conflict",
+        "decision"
+      ],
+      "user_prompt": "If conflict becomes unavoidable, how should one act?",
+      "answer_mode": "source-grounded synthesis",
+      "response_style": "somber restrained",
+      "answer": "Use force only when there is no better path, and do not love it when you use it. Do not be the eager aggressor. Do not let anger drive the hand. Even victory should be carried as mourning, because delight in crushing others already departs from the way and prepares the next disorder.",
+      "evidence_refs": [
+        "ev_010",
+        "ev_022",
+        "ev_023"
+      ],
+      "limitations": "The source permits reluctant force, but it gives sparse operational doctrine beyond restraint and non-triumphalism."
+    }
+  ]
+}

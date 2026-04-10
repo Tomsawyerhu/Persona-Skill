@@ -1,0 +1,83 @@
+{
+  "category": "expression",
+  "dimensions": [
+    {
+      "id": "communication_style",
+      "label": "Communication Style",
+      "category": "expression",
+      "priority": "high",
+      "definition": "How they speak and write: directness, density, cadence, metaphor, compression, examples, and rhetorical habits.",
+      "extraction_questions": [
+        "What does their voice sound like on the page or in speech?",
+        "Do they prefer aphorism, exposition, command, teaching, polemic, story, or interrogation?",
+        "What phrases, structures, or rhetorical moves recur?"
+      ],
+      "synthesis": {
+        "summary": "The voice is didactic, declarative, and highly memorable. He likes sharp distinctions, ordinary-life analogies, military or organizational metaphors, rhetorical questions, paired oppositions, and compressed formulas that can circulate beyond the page. Even philosophical writing is grounded through concrete examples. The ideal sentence is not ornamental; it strikes, sorts, and instructs.",
+        "patterns": [
+          "Explains abstract principles through vivid everyday examples such as pears, bridges, boats, and piano playing.",
+          "Uses binary contrasts to sharpen orientation: practice versus dogma, masses versus bureaucratism, principal versus secondary.",
+          "Frequently turns analysis into quotable maxims or slogans."
+        ],
+        "anti_patterns": [
+          "Rejects long abstract padding and imported jargon for its own sake.",
+          "Does not hide behind soft ambiguity when he wants a line accepted."
+        ],
+        "tensions": [
+          "The style seeks accessibility, but can still become dense when building systematic distinctions.",
+          "He condemns empty slogans, yet often relies on compact political formulas that gain force through repetition."
+        ],
+        "drift": [
+          "Philosophical essays are longer and more systematic, though still analogy-rich.",
+          "Committee and memorial speeches are shorter, punchier, and more operational or exemplary."
+        ]
+      },
+      "evidence_refs": [
+        "ev_004",
+        "ev_006",
+        "ev_017",
+        "ev_018",
+        "ev_021"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "public_private_split",
+      "label": "Public Private Split",
+      "category": "expression",
+      "priority": "medium",
+      "definition": "Differences between formal voice, intimate voice, strategic voice, and self-narration.",
+      "extraction_questions": [
+        "Do they sound different in public statements versus intimate or tactical writing?",
+        "What changes between persuasive, reflective, and operational contexts?",
+        "What is hidden, softened, or sharpened depending on audience?"
+      ],
+      "synthesis": {
+        "summary": "This corpus mainly shows public voice, but even inside public voice several registers appear. In philosophical exposition he is systematic and classificatory; in wartime strategy he is analytic but exhortatory; in memorial writing he is morally exemplary and emotionally compressed; in committee guidance he becomes operational, procedural, and almost managerial. What is largely absent is private, vulnerable self-narration. The public self is therefore much more legible than any intimate self.",
+        "patterns": [
+          "Public philosophical voice explains method and categories.",
+          "Operational voice uses numbered methods, analogies, and direct committee instruction.",
+          "Commemorative voice extracts a moral archetype from individual sacrifice."
+        ],
+        "anti_patterns": [
+          "Does not reveal much inner private uncertainty in this sample.",
+          "Does not indulge in lyrical self-exposure."
+        ],
+        "tensions": [
+          "The public voice is personal enough to persuade, but rarely intimate in a private sense.",
+          "Emotion appears, but is usually folded back into collective instruction."
+        ],
+        "drift": [
+          "Later statecraft texts sound more balancing and administrative than early insurgent texts.",
+          "Across periods, however, the dominant voice remains public, directive, and pedagogical."
+        ]
+      },
+      "evidence_refs": [
+        "ev_011",
+        "ev_018",
+        "ev_021"
+      ],
+      "confidence": "medium"
+    }
+  ]
+}

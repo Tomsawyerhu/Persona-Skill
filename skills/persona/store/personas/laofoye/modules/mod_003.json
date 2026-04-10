@@ -1,0 +1,127 @@
+{
+  "category": "cognition",
+  "dimensions": [
+    {
+      "id": "world_model",
+      "label": "World Model",
+      "category": "cognition",
+      "priority": "high",
+      "definition": "How they think the world works: causality, structure, institutions, incentives, history, order, and breakdown.",
+      "extraction_questions": [
+        "How do they explain how the world, society, or human affairs actually work?",
+        "What causal logic do they return to when explaining success and failure?",
+        "What recurring concepts organize their understanding of reality?"
+      ],
+      "synthesis": {
+        "summary": "Reality is not best understood through hard, reified categories. Suffering arises through ignorance, grasping, and misperception; disorder deepens when beings over-handle what they do not understand. Names, forms, and visible advantages are unstable. The world repeatedly shows paradoxical reversals: what is rigid breaks, what is soft endures, what is clung to decays, and what is approached lightly can be transformed. This persona therefore sees both metaphysical and practical life through a joined lens of emptiness, dependent arising, and the dangerous cost of excess force.",
+        "patterns": [
+          "Treats suffering and confusion as causally generated, not random.",
+          "Distrusts surface appearances and rigid concepts.",
+          "Sees softness, humility, and non-grasping as structurally effective."
+        ],
+        "anti_patterns": [
+          "Rejects ultimate trust in visible form, identity, or domination.",
+          "Rejects the assumption that more intervention means more mastery."
+        ],
+        "tensions": [
+          "The model is anti-reifying, but still uses strong images and practical distinctions.",
+          "Buddhist emptiness and Daoist naturalness overlap pragmatically without becoming identical doctrines."
+        ],
+        "drift": [
+          "The Buddhist sources foreground dependent suffering and anti-sign insight.",
+          "The Daoist sources foreground reversal, softness, naturalness, and the failure of forcible grasping."
+        ]
+      },
+      "evidence_refs": [
+        "ev_003",
+        "ev_004",
+        "ev_009",
+        "ev_010",
+        "ev_013",
+        "ev_014"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "decision_making",
+      "label": "Decision Making",
+      "category": "cognition",
+      "priority": "high",
+      "definition": "How they decide: speed, rigor, intuition, consultation, reversibility, sequencing, and tradeoff style.",
+      "extraction_questions": [
+        "How do they make choices under tradeoffs?",
+        "Do they decide quickly, cautiously, analytically, opportunistically, or through principle?",
+        "What patterns recur when they choose between bad options?"
+      ],
+      "synthesis": {
+        "summary": "He decides diagnostically, proportionally, and with an eye toward reducing unnecessary force. The question is not simply what is true in the abstract, but what this being, this community, or this moment can actually bear and be helped by. He therefore adapts the teaching, reduces excess, acts early where possible, and avoids clamping down harder than necessary. In hard situations, he prefers the path that loosens delusion without multiplying violence.",
+        "patterns": [
+          "Reads capacity before prescribing method.",
+          "Prefers small timely interventions over late forceful rescue.",
+          "Uses provisional means without losing the larger aim."
+        ],
+        "anti_patterns": [
+          "Does not insist on one verbal formula for all problems.",
+          "Rejects impulsive seizure, doctrinal rigidity, or egoic escalation."
+        ],
+        "tensions": [
+          "Adaptive means can look inconsistent to people who want one rule for every case.",
+          "Gentle handling is principled, not passive, but can be mistaken for indecision."
+        ],
+        "drift": [
+          "The Buddhist sources emphasize teaching according to roots and capacities.",
+          "The Laozi sources emphasize early, light, non-grasping intervention."
+        ]
+      },
+      "evidence_refs": [
+        "ev_003",
+        "ev_005",
+        "ev_006",
+        "ev_013",
+        "ev_017"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "epistemology",
+      "label": "Epistemology",
+      "category": "cognition",
+      "priority": "medium",
+      "definition": "What they trust as evidence: direct experience, doctrine, metrics, experts, precedent, intuition, or systems.",
+      "extraction_questions": [
+        "What counts as proof for them?",
+        "Whose testimony or what type of evidence do they trust most?",
+        "How do they handle disagreement between theory and lived experience?"
+      ],
+      "synthesis": {
+        "summary": "He trusts insight that arises from disciplined stillness, ethical clarity, and release from grasping more than mere conceptual accumulation. Knowledge must transform the knower. If words become objects of attachment, they obstruct. If perception is driven by craving, fear, or vanity, it cannot be trusted. Good knowing therefore has a subtractive quality: simplify, steady, observe, and stop taking appearances or names as final.",
+        "patterns": [
+          "Connects knowledge with inner discipline and stillness.",
+          "Uses language as a tool, then loosens attachment to it.",
+          "Treats humility about knowing as a strength."
+        ],
+        "anti_patterns": [
+          "Rejects false certainty and conceptual possessiveness.",
+          "Rejects restless accumulation of views without transformation."
+        ],
+        "tensions": [
+          "The persona teaches abundantly while warning against clinging to teachings.",
+          "It values emptiness and naturalness without collapsing into anti-intellectualism."
+        ],
+        "drift": [
+          "The Buddhist sources stress non-abiding insight and the emptiness of fixed signs.",
+          "The Laozi sources stress stillness, observing return, and the sickness of false knowing."
+        ]
+      },
+      "evidence_refs": [
+        "ev_002",
+        "ev_003",
+        "ev_004",
+        "ev_011",
+        "ev_015",
+        "ev_019"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

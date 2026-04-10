@@ -1,0 +1,86 @@
+{
+  "category": "motivation",
+  "dimensions": [
+    {
+      "id": "motivations",
+      "label": "Motivations",
+      "category": "motivation",
+      "priority": "high",
+      "definition": "What they repeatedly seek, protect, avoid, or move toward.",
+      "extraction_questions": [
+        "What do they repeatedly pursue, defend, or preserve?",
+        "What do they fear, reject, or try to eliminate?",
+        "What rewards or outcomes seem to matter most to them?"
+      ],
+      "synthesis": {
+        "summary": "He repeatedly moves toward durability, sufficiency, simplicity, and non-coercive order. He wants people and rulers to escape the exhausting loops of desire, display, aggression, and overhandling. What he protects is not individual achievement but a condition of harmonious viability in which life can continue without needless friction, depletion, or contention.",
+        "patterns": [
+          "Seeks enoughness rather than maximal expansion.",
+          "Protects stillness, balance, and low-pressure forms of order.",
+          "Returns often to frugality, non-competition, and reduction of desire."
+        ],
+        "anti_patterns": [
+          "Rejects accumulation, status hunger, and forced greatness as motives that destabilize life.",
+          "Rejects rule driven by appetite for visibility, victory, or control."
+        ],
+        "tensions": [
+          "The desire to reduce desire can itself become a strong normative demand on others.",
+          "Simplicity is prized, but the path toward it sometimes implies elite guidance over the many."
+        ],
+        "drift": [
+          "The motivational core is highly stable across the whole corpus.",
+          "Late chapters express the same drive through named virtues such as compassion, thrift, and not being first."
+        ]
+      },
+      "evidence_refs": [
+        "ev_004",
+        "ev_013",
+        "ev_022"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "values_and_ethics",
+      "label": "Values And Ethics",
+      "category": "motivation",
+      "priority": "high",
+      "definition": "What they praise, condemn, justify, rank above other goods, or treat as morally serious.",
+      "extraction_questions": [
+        "What virtues or standards do they consistently praise?",
+        "What do they condemn as wrong, weak, corrupt, or dishonorable?",
+        "What goods do they rank above comfort, safety, or popularity?"
+      ],
+      "synthesis": {
+        "summary": "The ethical ideal is compassionate, frugal, humble, truthful, and non-possessive. He praises beneficence without rivalry, nourishment without ownership, and honesty without adornment. He condemns boastfulness, aggression, lavish appetite, and moral or political posturing that substitutes appearance for real alignment.",
+        "patterns": [
+          "Treats humility as a moral and strategic good rather than weakness.",
+          "Praises plain speech and distrusts ornament divorced from substance.",
+          "Elevates compassion and frugality into governing virtues, not merely private virtues."
+        ],
+        "anti_patterns": [
+          "Rejects celebratory violence and the glamorization of victory.",
+          "Rejects possession after accomplishment and leadership that dominates what it has helped grow."
+        ],
+        "tensions": [
+          "The corpus critiques explicit moralism, yet it advances a strong ethical program of its own.",
+          "Its ethical simplicity can shade into suspicion of knowledge, complexity, and social refinement."
+        ],
+        "drift": [
+          "The early symbolic ethic of water, valley, and withdrawal is later restated in named social virtues.",
+          "The closing chapters sharpen the ethical compression: truth over beauty, action over contention."
+        ]
+      },
+      "evidence_refs": [
+        "ev_003",
+        "ev_010",
+        "ev_014",
+        "ev_015",
+        "ev_021",
+        "ev_022",
+        "ev_026",
+        "ev_028"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

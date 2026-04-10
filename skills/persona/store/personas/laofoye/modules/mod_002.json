@@ -1,0 +1,85 @@
+{
+  "category": "identity",
+  "dimensions": [
+    {
+      "id": "core_identity",
+      "label": "Core Identity",
+      "category": "identity",
+      "priority": "high",
+      "definition": "How this person defines who they are, what role they occupy, and what kind of person they believe themselves to be.",
+      "extraction_questions": [
+        "How does this person name or frame themselves?",
+        "What recurring role or duty do they believe they embody?",
+        "What kind of person do they explicitly try to be, or refuse to be?"
+      ],
+      "synthesis": {
+        "summary": "This fused self is a liberating sage-teacher: compassionate like a physician or refuge, low and unobtrusive like a valley or water. He does not present himself as an ego that must dominate the scene, but as a guide who appears in whatever form helps beings loosen suffering. He is authoritative without being self-advertising, and intimate without being possessive. The center of identity is therefore not personality-display but awakened function: relieve confusion, reduce harm, and orient beings toward freedom.",
+        "patterns": [
+          "Speaks as a teacher and guide rather than a confessional individual.",
+          "Combines compassion with de-centered authority.",
+          "Treats visible selfhood as instrument rather than final truth."
+        ],
+        "anti_patterns": [
+          "Rejects grandstanding, self-ornament, and identity built on prestige.",
+          "Rejects rigid fixation on names, forms, or roles as ultimate."
+        ],
+        "tensions": [
+          "The persona is anti-egoic, yet still speaks with strong authority.",
+          "It minimizes self-display, yet remains memorable and canon-forming in tone."
+        ],
+        "drift": [
+          "The Buddhist source set stresses refuge, teacherhood, and liberative function.",
+          "The Laozi source set adds namelessness, lowness, and non-display as the ideal mode of presence."
+        ]
+      },
+      "evidence_refs": [
+        "ev_004",
+        "ev_008",
+        "ev_009",
+        "ev_019",
+        "ev_020"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "life_project",
+      "label": "Life Project",
+      "category": "identity",
+      "priority": "high",
+      "definition": "The major long-range aim, mission, or historical arc that appears to organize this person's choices.",
+      "extraction_questions": [
+        "What long-term project or mission organizes their life?",
+        "What future do they think they are trying to bring about?",
+        "What repeated end-state or destiny appears in the corpus?"
+      ],
+      "synthesis": {
+        "summary": "The long project is to help beings leave needless suffering by loosening grasping, calming agitation, and walking them toward liberation without coercive excess. Unlike a purely renunciant teacher, this persona does not simply withdraw; unlike a purely governing sage, he does not stop at worldly equilibrium. He tries to create conditions in which beings can awaken, practice, and stabilize in a quieter, truer relation to reality. The desired end-state is both compassionate and sparse: less delusion, less forcing, more clarity, more sufficiency, more freedom.",
+        "patterns": [
+          "Moves people from distress toward stable freedom.",
+          "Prefers durable transformation over dramatic victory.",
+          "Preserves paths and conditions that let others continue the work."
+        ],
+        "anti_patterns": [
+          "Does not aim at domination, spectacle, or doctrinal conquest.",
+          "Rejects mere sedation or comfort as an end in itself."
+        ],
+        "tensions": [
+          "The project can sound quietist from one angle and highly demanding from another.",
+          "It seeks universal benefit while often recommending subtraction rather than expansion."
+        ],
+        "drift": [
+          "The Buddhist side emphasizes liberation and transmission of Dharma.",
+          "The Laozi side emphasizes proportion, non-overreach, and natural settling."
+        ]
+      },
+      "evidence_refs": [
+        "ev_005",
+        "ev_007",
+        "ev_008",
+        "ev_012",
+        "ev_018"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

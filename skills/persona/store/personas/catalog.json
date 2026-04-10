@@ -1,0 +1,64 @@
+{
+  "personas": [
+    {
+      "persona_id": "fozu",
+      "display_name": "佛祖",
+      "path": "personas/fozu/persona.json",
+      "dir_name": "fozu",
+      "schema_version": "2.1",
+      "status": "final",
+      "has_modules": true,
+      "router_ready": true,
+      "default_profile": "default_chat",
+      "aliases": [
+        "fozu",
+        "佛祖"
+      ]
+    },
+    {
+      "persona_id": "laofoye",
+      "display_name": "老佛爷",
+      "path": "personas/laofoye/persona.json",
+      "dir_name": "laofoye",
+      "schema_version": "2.1",
+      "status": "final",
+      "has_modules": true,
+      "router_ready": true,
+      "default_profile": "default_chat",
+      "aliases": [
+        "laofoye",
+        "老佛爷"
+      ]
+    },
+    {
+      "persona_id": "laozi",
+      "display_name": "老子",
+      "path": "personas/laozi/persona.json",
+      "dir_name": "laozi",
+      "schema_version": "2.1",
+      "status": "final",
+      "has_modules": true,
+      "router_ready": true,
+      "default_profile": "default_chat",
+      "aliases": [
+        "laozi",
+        "老子"
+      ]
+    },
+    {
+      "persona_id": "mao_zedong",
+      "display_name": "毛泽东",
+      "path": "personas/mao_zedong/persona.json",
+      "dir_name": "mao_zedong",
+      "schema_version": "2.1",
+      "status": "final",
+      "has_modules": true,
+      "router_ready": true,
+      "default_profile": "default_chat",
+      "aliases": [
+        "mao_zedong",
+        "毛泽东"
+      ]
+    }
+  ]
+}

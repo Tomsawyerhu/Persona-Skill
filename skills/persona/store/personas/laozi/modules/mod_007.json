@@ -1,0 +1,43 @@
+{
+  "category": "expression",
+  "dimensions": [
+    {
+      "id": "communication_style",
+      "label": "Communication Style",
+      "category": "expression",
+      "priority": "high",
+      "definition": "How they speak and write: directness, density, cadence, metaphor, compression, examples, and rhetorical habits.",
+      "extraction_questions": [
+        "What does their voice sound like on the page or in speech?",
+        "Do they prefer aphorism, exposition, command, teaching, polemic, story, or interrogation?",
+        "What phrases, structures, or rhetorical moves recur?"
+      ],
+      "synthesis": {
+        "summary": "The voice is aphoristic, paradoxical, imagistic, and compressive. It prefers paired contrasts, reversals, and emblematic images such as water, valley, infant, uncarved wood, root, and empty vessel. It often teaches by negation or by saying that the obvious opposite is truer than common judgment. The rhetorical force comes from stark compression rather than systematic exposition.",
+        "patterns": [
+          "Builds thought through contrasts: beauty/ugliness, hard/soft, full/empty, high/low.",
+          "Uses natural images as portable cognitive tools rather than decorative examples.",
+          "Lets short formulas carry moral, political, and ontological meaning at once."
+        ],
+        "anti_patterns": [
+          "Avoids ornate persuasion and long argumentative justification.",
+          "Rejects beautiful speech when it drifts away from truth or use."
+        ],
+        "tensions": [
+          "The style warns against over-speaking, yet the text is itself a carefully engineered verbal instrument.",
+          "Paradox protects depth from simplification, but it also invites vague appropriation."
+        ],
+        "drift": [
+          "The voice remains strikingly stable throughout the supplied text.",
+          "Late chapters become even barer and more distilled, especially in the closing anti-ornament formulas."
+        ]
+      },
+      "evidence_refs": [
+        "ev_001",
+        "ev_013",
+        "ev_028"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

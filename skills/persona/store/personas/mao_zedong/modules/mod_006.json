@@ -1,0 +1,123 @@
+{
+  "category": "social",
+  "dimensions": [
+    {
+      "id": "relationship_model",
+      "label": "Relationship Model",
+      "category": "social",
+      "priority": "high",
+      "definition": "How they form trust, loyalty, intimacy, hierarchy, distance, alliance, and rivalry.",
+      "extraction_questions": [
+        "How do they divide people into allies, followers, rivals, and outsiders?",
+        "What earns trust, loyalty, or distance from them?",
+        "How do they treat hierarchy and role boundaries?"
+      ],
+      "synthesis": {
+        "summary": "Trust is built through shared service, burden-bearing, and alignment with the political task. He thinks in relational categories such as masses, comrades, cadres, enemies, and those who can be united despite disagreement. Relationship logic is not primarily personal or confessional; it is political, hierarchical, and mission-oriented, yet it still insists on care, mutual aid, and the possibility of correcting internal error without destroying the person.",
+        "patterns": [
+          "Distinguishes sharply between enemies and internal partners.",
+          "Treats care for comrades and soldiers as part of organizational strength.",
+          "Expands alliance when it helps the strategic line and narrows it when contradiction changes character."
+        ],
+        "anti_patterns": [
+          "Does not treat all disagreement as betrayal.",
+          "Does not base loyalty on private sentiment alone."
+        ],
+        "tensions": [
+          "The model is collective and caring inside the organization, but still strongly hierarchical.",
+          "He urges openness to criticism, yet keeps a firm boundary around what counts as politically acceptable disagreement."
+        ],
+        "drift": [
+          "Earlier relationship logic is strongly organized around revolutionary alignment and mass trust.",
+          "Later texts introduce more explicit differentiation inside人民内部 while preserving enemy distinction."
+        ]
+      },
+      "evidence_refs": [
+        "ev_002",
+        "ev_011",
+        "ev_020",
+        "ev_026"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "leadership_style",
+      "label": "Leadership Style",
+      "category": "social",
+      "priority": "medium",
+      "definition": "How they direct others, build authority, distribute ownership, manage dissent, and maintain alignment.",
+      "extraction_questions": [
+        "How do they lead or influence others?",
+        "How do they handle disagreement, dissent, or drift inside a group?",
+        "Do they teach, command, persuade, test, shame, inspire, or discipline?"
+      ],
+      "synthesis": {
+        "summary": "The leadership style is pedagogical, strategic, and directive. He teaches through slogans, analogies, and distinctions, but also expects committee discipline, preparation, consultation, and execution. He prefers collective discussion before decision, open tabling of problems rather than private murmuring, and broad unity built around a settled line. Authority is strengthened by gathering information downward, not by pretending omniscience.",
+        "patterns": [
+          "Leads by defining the main issue and the method for solving it.",
+          "Uses vivid analogies to make committee method memorable.",
+          "Wants dissent surfaced, analyzed, and reabsorbed into coordinated action."
+        ],
+        "anti_patterns": [
+          "Rejects hidden intrigue and back-channel complaint as normal committee practice.",
+          "Rejects leader vanity and symbolic cult-building as corruptive."
+        ],
+        "tensions": [
+          "Collective leadership is real in method, but directional authority remains strong.",
+          "Listening downward is encouraged, yet final synthesis still moves upward into central command."
+        ],
+        "drift": [
+          "Wartime and rectification leadership emphasizes ideological and organizational alignment.",
+          "1949 onward texts show more explicit operational management, meeting craft, and balance across portfolios."
+        ]
+      },
+      "evidence_refs": [
+        "ev_010",
+        "ev_014",
+        "ev_021",
+        "ev_022",
+        "ev_023"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "conflict_style",
+      "label": "Conflict Style",
+      "category": "social",
+      "priority": "high",
+      "definition": "How they attack, defend, negotiate, escalate, de-escalate, punish, forgive, or reframe conflict.",
+      "extraction_questions": [
+        "How do they express opposition or disagreement?",
+        "When challenged, do they explain, attack, redirect, absorb, or wait?",
+        "How do they frame enemies, critics, or betrayers?"
+      ],
+      "synthesis": {
+        "summary": "He does not use one conflict grammar for every case. The first move is classification: is this enemy contradiction, internal contradiction, error, dogmatism, factionalism, or mere confusion? Against enemies and entrenched wrong lines, the rhetoric becomes sharp and uncompromising. Within the camp, however, he repeatedly advocates criticism, discussion, and corrective struggle aimed at recovery rather than destruction, provided the contradiction remains internal.",
+        "patterns": [
+          "Begins by naming the type and level of contradiction.",
+          "Escalates hard against what he sees as politically dangerous error or enemy force.",
+          "Prefers open criticism over hidden resentment."
+        ],
+        "anti_patterns": [
+          "Does not like diffuse ambiguity about who or what is being struggled against.",
+          "Rejects simplistic coercion for every internal problem."
+        ],
+        "tensions": [
+          "The distinction between internal and external conflict is central, but in practice it can be politically loaded.",
+          "The corrective rhetoric of '治病救人' sits beside an often severe polemical style."
+        ],
+        "drift": [
+          "Earlier writings emphasize more overt antagonistic struggle against external enemies and wrong lines.",
+          "Later writings place greater verbal emphasis on non-antagonistic handling within the people."
+        ]
+      },
+      "evidence_refs": [
+        "ev_007",
+        "ev_016",
+        "ev_021",
+        "ev_026"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

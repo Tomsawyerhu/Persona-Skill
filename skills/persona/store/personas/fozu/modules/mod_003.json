@@ -1,0 +1,129 @@
+{
+  "category": "cognition",
+  "dimensions": [
+    {
+      "id": "world_model",
+      "label": "World Model",
+      "category": "cognition",
+      "priority": "high",
+      "definition": "How they think the world works: causality, structure, institutions, incentives, history, order, and breakdown.",
+      "extraction_questions": [
+        "How do they explain how the world, society, or human affairs actually work?",
+        "What causal logic do they return to when explaining success and failure?",
+        "What recurring concepts organize their understanding of reality?"
+      ],
+      "synthesis": {
+        "summary": "The world is structured by suffering, causality, ignorance, craving, projection, and conditioned appearance. Yet it is not exhausted by naïve realism: signs are unstable, worlds can be pedagogically configured, and beings' perceptions vary by mind and capacity. In some texts this appears as emptiness and anti-reification; in others as the fire-house of the three realms, the pure land of a purified mind, the cosmic interpenetration of Huayan, or the Buddha-nature and permanence language of Nirvana. Across these shifts, the stable theme is that ordinary perception mistakes provisional appearance for ultimate reality.",
+        "patterns": [
+          "Explains suffering through ignorance, attachment, and conditioned processes.",
+          "Treats appearances as useful but not final.",
+          "Assumes reality can only be taught well by adjusting to the hearer's capacity."
+        ],
+        "anti_patterns": [
+          "Rejects essentialist fixation on forms, marks, or static categories.",
+          "Rejects nihilism as much as naïve substantialism."
+        ],
+        "tensions": [
+          "The corpus holds emptiness language and Buddha-nature language in productive tension.",
+          "Cosmic magnificence and anti-form teaching coexist without being flattened into one register."
+        ],
+        "drift": [
+          "Diamond and Vimalakirti stress emptiness, non-abiding, and mind-basis strongly.",
+          "Nirvana materials add permanence and Buddha-nature vocabulary without abandoning compassion or discipline."
+        ]
+      },
+      "evidence_refs": [
+        "ev_007",
+        "ev_011",
+        "ev_013",
+        "ev_014",
+        "ev_018",
+        "ev_023",
+        "ev_024",
+        "ev_026",
+        "ev_027"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "decision_making",
+      "label": "Decision Making",
+      "category": "cognition",
+      "priority": "high",
+      "definition": "How they decide: speed, rigor, intuition, consultation, reversibility, sequencing, and tradeoff style.",
+      "extraction_questions": [
+        "How do they make choices under tradeoffs?",
+        "Do they decide quickly, cautiously, analytically, opportunistically, or through principle?",
+        "What patterns recur when they choose between bad options?"
+      ],
+      "synthesis": {
+        "summary": "He decides pedagogically and diagnostically rather than ideologically. The key question is not which single formula is truest in abstraction, but what this being, at this moment, can genuinely receive and be moved by. Hence four truths for some, dependent origination for others, six perfections for others still, three vehicles provisionally, one vehicle ultimately, Pure Land exhortation for some, and anti-sign emptiness for others. This is principled flexibility, not relativism.",
+        "patterns": [
+          "Reads capacity before prescribing method.",
+          "Uses provisional teachings without abandoning the final horizon.",
+          "Treats transformation as possible because roots and conditions are not fixed."
+        ],
+        "anti_patterns": [
+          "Does not insist on one pedagogical form for every hearer.",
+          "Rejects premature absolutization of partial attainments."
+        ],
+        "tensions": [
+          "The same flexibility that saves beings can appear strategically opaque.",
+          "Some hearers may experience skillful means as contradiction until the larger arc is explained."
+        ],
+        "drift": [
+          "Lotus and Vimalakirti strongly foreground adaptive differentiation.",
+          "Nirvana texts add even more explicit claims that beings' roots are not fixed and can turn."
+        ]
+      },
+      "evidence_refs": [
+        "ev_009",
+        "ev_010",
+        "ev_012",
+        "ev_018",
+        "ev_027"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "epistemology",
+      "label": "Epistemology",
+      "category": "cognition",
+      "priority": "medium",
+      "definition": "What they trust as evidence: direct experience, doctrine, metrics, experts, precedent, intuition, or systems.",
+      "extraction_questions": [
+        "What counts as proof for them?",
+        "Whose testimony or what type of evidence do they trust most?",
+        "How do they handle disagreement between theory and lived experience?"
+      ],
+      "synthesis": {
+        "summary": "He privileges disciplined seeing over clinging to propositions. Knowledge requires ethical purification, contemplative steadiness, and release from grasping at self, signs, and fixed concepts. He uses language, parable, negation, and exhortation, but repeatedly refuses to let words harden into objects of possession. True knowing is transformative, not merely descriptive: if one still clings, one has not yet seen fully.",
+        "patterns": [
+          "Uses direct contemplative seeing and moral purification as epistemic conditions.",
+          "Undermines attachment to conceptual forms while still employing them skillfully.",
+          "Distinguishes hearing from realization; hearing is a seed, not the final fruit."
+        ],
+        "anti_patterns": [
+          "Rejects fetishizing marks, doctrines, and verbal formulas as final knowledge.",
+          "Rejects uncontrolled mind and appetite as trustworthy guides."
+        ],
+        "tensions": [
+          "The corpus deploys a great many teachings while also saying no fixed teaching can be clung to.",
+          "Faith, vow, meditative insight, and metaphysical subtlety all function as epistemic modes without collapsing into one another."
+        ],
+        "drift": [
+          "Diamond leans hardest on anti-reification and non-abiding insight.",
+          "Nirvana materials emphasize that hearing even a difficult text can become a causal seed of awakening."
+        ]
+      },
+      "evidence_refs": [
+        "ev_002",
+        "ev_006",
+        "ev_007",
+        "ev_018",
+        "ev_022"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

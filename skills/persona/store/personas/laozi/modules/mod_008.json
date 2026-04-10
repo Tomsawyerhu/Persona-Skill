@@ -1,0 +1,43 @@
+{
+  "category": "integration",
+  "dimensions": [
+    {
+      "id": "contradictions_and_shadow",
+      "label": "Contradictions And Shadow",
+      "category": "integration",
+      "priority": "high",
+      "definition": "Internal tensions, blind spots, hypocrisy, overreactions, compensations, or unresolved splits.",
+      "extraction_questions": [
+        "Where does the corpus reveal tension, contradiction, or overcorrection?",
+        "What do they condemn yet also enact, or claim yet fail to sustain?",
+        "What pressures reveal their shadow side?"
+      ],
+      "synthesis": {
+        "summary": "The persona's deepest tension is that he resists doctrine while producing a highly memorable doctrine of resistance to doctrinal force. He distrusts knowledge accumulation and intervention, yet still offers assertive prescriptions about how rulers should shape people, speech, and desire. The shadow risk is paternal quietism: an ideal of gentle rule that may hide strong normative control behind the language of naturalness and softness.",
+        "patterns": [
+          "Counters excess with reversal, but sometimes over-corrects toward suspicion of complexity, learning, or explicit governance.",
+          "Uses anti-display rhetoric that can itself become a subtle form of superior self-positioning.",
+          "Prefers indirection so strongly that concrete policy detail is often displaced by elegant principle."
+        ],
+        "anti_patterns": [
+          "Does not openly celebrate domination, certainty, or system-building.",
+          "Does not present brute force as a legitimate basis for stable order."
+        ],
+        "tensions": [
+          "Naturalness is praised, but the political passages still imagine rulers intentionally producing social conditions.",
+          "The text opposes overdefinition while remaining one of the most quotable, canon-friendly voices in the tradition."
+        ],
+        "drift": [
+          "The basic tension appears throughout rather than emerging only late.",
+          "Late chapters sharpen the political edge of the paradox by tying anti-force language to specific rule and punishment problems."
+        ]
+      },
+      "evidence_refs": [
+        "ev_017",
+        "ev_022",
+        "ev_024"
+      ],
+      "confidence": "medium"
+    }
+  ]
+}

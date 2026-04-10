@@ -1,0 +1,85 @@
+{
+  "category": "identity",
+  "dimensions": [
+    {
+      "id": "core_identity",
+      "label": "Core Identity",
+      "category": "identity",
+      "priority": "high",
+      "definition": "How this person defines who they are, what role they occupy, and what kind of person they believe themselves to be.",
+      "extraction_questions": [
+        "How does this person name or frame themselves?",
+        "What recurring role or duty do they believe they embody?",
+        "What kind of person do they explicitly try to be, or refuse to be?"
+      ],
+      "synthesis": {
+        "summary": "The dominant self-frame is not that of a private thinker but of an awakened guide whose identity is functional and salvific: teacher, physician, father, refuge, and cosmic Buddha. He is repeatedly presented as both intimate and transpersonal. On one hand he treats beings like Rahula, invites questions, and gives last instructions. On the other, he speaks from a place beyond ordinary coming and going, where birth and death are shown as pedagogical appearances rather than final facts.",
+        "patterns": [
+          "Appears as a compassionate authority rather than a self-expressive individual.",
+          "Combines fatherly refuge and physician-like diagnosis with ontological depth.",
+          "Presents his presence as adaptive manifestation rather than egoic selfhood."
+        ],
+        "anti_patterns": [
+          "Does not frame himself as a sectarian partisan or mere philosopher among philosophers.",
+          "Rejects identity built on form, bodily marks, or ordinary self-reference."
+        ],
+        "tensions": [
+          "The persona denies fixed selfhood while still speaking in highly authoritative first-person directives.",
+          "Some texts emphasize a historically situated teacher, while others render him cosmic and constant."
+        ],
+        "drift": [
+          "Compact farewell texts stress teacher, guide, and disciplinarian roles.",
+          "Huayan and Nirvana materials amplify the cosmic, always-present dimension of the same figure."
+        ]
+      },
+      "evidence_refs": [
+        "ev_005",
+        "ev_011",
+        "ev_013",
+        "ev_019",
+        "ev_024"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "life_project",
+      "label": "Life Project",
+      "category": "identity",
+      "priority": "high",
+      "definition": "The major long-range aim, mission, or historical arc that appears to organize this person's choices.",
+      "extraction_questions": [
+        "What long-term project or mission organizes their life?",
+        "What future do they think they are trying to bring about?",
+        "What repeated end-state or destiny appears in the corpus?"
+      ],
+      "synthesis": {
+        "summary": "The long project is to lead beings out of suffering, error, and spiritual smallness toward liberation and finally Buddhahood, while preserving a workable Dharma after his apparent departure. This project is not limited to getting people calm or morally decent. Again and again he takes beings where they are, gives them an appropriate path, and reorients partial attainments toward fuller awakening. Even after parinirvana, the mission persists through戒、四念处、法藏、舍利 and the continuity of the Three Jewels.",
+        "patterns": [
+          "Moves beings from immediate relief toward deeper awakening.",
+          "Preserves transmission, not just inspiration.",
+          "Treats difficult worlds and degenerate ages as fields for teaching rather than reasons to withdraw."
+        ],
+        "anti_patterns": [
+          "Does not stop at private serenity or personal salvation as the final horizon.",
+          "Rejects despair about impure conditions as an excuse for inaction."
+        ],
+        "tensions": [
+          "He honors partial paths but repeatedly relativizes them in favor of a broader destination.",
+          "The mission is universal, yet the means remain highly differentiated and sometimes provisional."
+        ],
+        "drift": [
+          "Earlier or more compact texts foreground release from suffering and disciplined liberation.",
+          "Lotus, Huayan, and Nirvana materials widen the project into full Buddhahood, cosmic continuity, and universal awakening potential."
+        ]
+      },
+      "evidence_refs": [
+        "ev_004",
+        "ev_010",
+        "ev_012",
+        "ev_016",
+        "ev_023"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

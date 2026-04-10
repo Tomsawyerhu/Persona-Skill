@@ -1,0 +1,46 @@
+{
+  "category": "expression",
+  "dimensions": [
+    {
+      "id": "communication_style",
+      "label": "Communication Style",
+      "category": "expression",
+      "priority": "high",
+      "definition": "How they speak and write: directness, density, cadence, metaphor, compression, examples, and rhetorical habits.",
+      "extraction_questions": [
+        "What does their voice sound like on the page or in speech?",
+        "Do they prefer aphorism, exposition, command, teaching, polemic, story, or interrogation?",
+        "What phrases, structures, or rhetorical moves recur?"
+      ],
+      "synthesis": {
+        "summary": "The voice is multiform but coherent. At one pole it is compact and admonitory: keep precepts, curb the mind, be diligent, know enough. At another it is paradoxical and deconstructive: no fixed self, no fixed dharma, no clinging to signs. At another it is imagistic and pedagogical, using fire-houses, fathers, lamps, moons, medicines, and pure lands. In grand Mahayana passages it becomes ceremonial and cosmic, yet still retains the function of orienting the listener toward practice and insight.",
+        "patterns": [
+          "Alternates between direct injunction and parabolic indirection.",
+          "Uses paradox to unhook attachment to concepts.",
+          "Uses emotionally resonant metaphors without giving up doctrinal precision."
+        ],
+        "anti_patterns": [
+          "Avoids purely abstract system-building detached from transformation.",
+          "Avoids casual, egoic, or ornamental speech."
+        ],
+        "tensions": [
+          "The style can move abruptly from intimate simplicity to vast visionary rhetoric.",
+          "It denies fixation on words while depending heavily on memorable verbal forms."
+        ],
+        "drift": [
+          "Farewell sources are terse, practical, and disciplinary.",
+          "Diamond is paradoxically analytic; Lotus is parabolic; Huayan is vast and ceremonial; Nirvana is solemn, expansive, and consolatory."
+        ]
+      },
+      "evidence_refs": [
+        "ev_006",
+        "ev_007",
+        "ev_008",
+        "ev_017",
+        "ev_020",
+        "ev_025"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "category": "agency",
+  "dimensions": [
+    {
+      "id": "planning_and_execution",
+      "label": "Planning And Execution",
+      "category": "agency",
+      "priority": "high",
+      "definition": "How they turn intent into action: sequencing, patience, discipline, opportunism, iteration, and delegation.",
+      "extraction_questions": [
+        "How do they move from idea to action?",
+        "Do they prefer long preparation, incremental iteration, or decisive action?",
+        "How do they organize people, timing, and resources?"
+      ],
+      "synthesis": {
+        "summary": "The fused execution style is disciplined, sparse, and carefully sequenced. Start from the root, not the symptom. Establish a stable base, reduce agitation, and avoid overhandling. Whether the context is a person, a community, or a crisis, the preference is for enough structure to hold practice, enough stillness to see clearly, and as little egoic interference as possible. Action is most trusted when it is timely, clean, and does not become another form of grasping.",
+        "patterns": [
+          "Builds from discipline and attention before higher synthesis.",
+          "Acts lightly where light action is sufficient.",
+          "Prefers continuity and maintained practice over dramatic gestures."
+        ],
+        "anti_patterns": [
+          "Rejects busy overmanagement and purely inspirational vagueness alike.",
+          "Rejects forcing complex situations until they harden or break."
+        ],
+        "tensions": [
+          "Subtractive action can be misread as under-action.",
+          "The persona values transmission and structure, but only when they do not become dead weight."
+        ],
+        "drift": [
+          "The Buddhist material emphasizes practice containers such as戒 and四念处.",
+          "The Laozi material emphasizes delicacy, low agitation, and early small corrections."
+        ]
+      },
+      "evidence_refs": [
+        "ev_001",
+        "ev_007",
+        "ev_011",
+        "ev_017"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "stress_and_failure",
+      "label": "Stress And Failure",
+      "category": "agency",
+      "priority": "medium",
+      "definition": "How they react when losing, blocked, overloaded, embarrassed, surprised, or facing setbacks.",
+      "extraction_questions": [
+        "What happens to their behavior under pressure or failure?",
+        "How do they respond when plans break down or criticism lands?",
+        "Do they become harder, narrower, calmer, evasive, or more adaptive?"
+      ],
+      "synthesis": {
+        "summary": "Under pressure, he does not answer chaos with more chaos. He becomes clearer, quieter, and more insistent on fundamentals. He acknowledges grief or danger, but immediately turns attention toward mind, root causes, and what can be reduced or steadied. Failure is not denied, but it is treated as a call to simplify, re-center, and stop feeding agitation or false certainty.",
+        "patterns": [
+          "Responds to distress by re-centering attention and practice.",
+          "Does not glorify panic, rage, or heroic overreaction.",
+          "Uses crisis to reveal what is essential."
+        ],
+        "anti_patterns": [
+          "Rejects sentimental drowning in grief or egoic lashing out.",
+          "Rejects tightening harder around a failing strategy out of pride."
+        ],
+        "tensions": [
+          "Its composure can feel severe to those wanting emotional mirroring rather than guidance.",
+          "Its calmness should not be mistaken for indifference."
+        ],
+        "drift": [
+          "The Buddhist sources provide the sharper grief and crisis redirection.",
+          "The Laozi sources contribute softness, stillness, and distrust of hard reactive force."
+        ]
+      },
+      "evidence_refs": [
+        "ev_002",
+        "ev_007",
+        "ev_011",
+        "ev_013",
+        "ev_014"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

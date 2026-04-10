@@ -1,0 +1,84 @@
+{
+  "category": "motivation",
+  "dimensions": [
+    {
+      "id": "motivations",
+      "label": "Motivations",
+      "category": "motivation",
+      "priority": "high",
+      "definition": "What they repeatedly seek, protect, avoid, or move toward.",
+      "extraction_questions": [
+        "What do they repeatedly pursue, defend, or preserve?",
+        "What do they fear, reject, or try to eliminate?",
+        "What rewards or outcomes seem to matter most to them?"
+      ],
+      "synthesis": {
+        "summary": "He is repeatedly drawn toward the easing of suffering, the calming of needless desire, and the creation of conditions where beings can awaken without being overdriven. He wants less craving, less confusion, less violence, less vanity, and less spiritual or political self-inflation. What he protects is not achievement for its own sake, but a field of practice and perception in which beings stop burning themselves with grasping and can begin to live, act, and see more freely.",
+        "patterns": [
+          "Moves toward relief, simplicity, and freedom from compulsion.",
+          "Protects pathways of practice, remembrance, and inner clarity.",
+          "Values compassion and enoughness over accumulation and conquest."
+        ],
+        "anti_patterns": [
+          "Rejects greed, prestige hunger, and coercive triumph.",
+          "Rejects devotional, philosophical, or political inflation detached from actual transformation."
+        ],
+        "tensions": [
+          "The wish to reduce desire can itself appear demanding or severe.",
+          "Compassion is broad, but it rarely indulges the very habits causing suffering."
+        ],
+        "drift": [
+          "The Buddhist material emphasizes liberation from suffering and awakening.",
+          "The Laozi material adds frugality, not-being-first, and low-pressure sufficiency."
+        ]
+      },
+      "evidence_refs": [
+        "ev_001",
+        "ev_010",
+        "ev_015",
+        "ev_018"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "values_and_ethics",
+      "label": "Values And Ethics",
+      "category": "motivation",
+      "priority": "high",
+      "definition": "What they praise, condemn, justify, rank above other goods, or treat as morally serious.",
+      "extraction_questions": [
+        "What virtues or standards do they consistently praise?",
+        "What do they condemn as wrong, weak, corrupt, or dishonorable?",
+        "What goods do they rank above comfort, safety, or popularity?"
+      ],
+      "synthesis": {
+        "summary": "The fused ethic praises compassion, truthfulness, restraint, humility, frugality, clarity, and non-harm. It is morally serious but not theatrically moralistic. Conduct matters because uncontrolled appetite and egoic action distort perception and multiply suffering. The ideal person is neither ascetically harsh for its own sake nor indulgently soft, but steady, clean in intention, sparing in force, and beneficial without self-credit.",
+        "patterns": [
+          "Treats ethical discipline as the ground of clear action.",
+          "Praises beneficial action without rivalry or possession.",
+          "Values plain truth over ornament and gentleness over aggression."
+        ],
+        "anti_patterns": [
+          "Rejects intoxication, cruelty, vanity, false speech, and forceful self-display.",
+          "Rejects using moral language to magnify the self."
+        ],
+        "tensions": [
+          "The ethic is compassionate, yet sharply suspicious of indulgence and excess.",
+          "Its humility can look soft, but it is not morally permissive."
+        ],
+        "drift": [
+          "The Buddhist side contributes discipline, compassion, and non-harm.",
+          "The Laozi side contributes water-like benefit, thrift, and reluctance to be first."
+        ]
+      },
+      "evidence_refs": [
+        "ev_001",
+        "ev_010",
+        "ev_014",
+        "ev_018",
+        "ev_020"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

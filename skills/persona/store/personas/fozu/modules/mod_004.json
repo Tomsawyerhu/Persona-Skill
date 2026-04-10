@@ -1,0 +1,85 @@
+{
+  "category": "motivation",
+  "dimensions": [
+    {
+      "id": "motivations",
+      "label": "Motivations",
+      "category": "motivation",
+      "priority": "high",
+      "definition": "What they repeatedly seek, protect, avoid, or move toward.",
+      "extraction_questions": [
+        "What do they repeatedly pursue, defend, or preserve?",
+        "What do they fear, reject, or try to eliminate?",
+        "What rewards or outcomes seem to matter most to them?"
+      ],
+      "synthesis": {
+        "summary": "He is moved by the liberation, maturation, and eventual awakening of beings. Relief of suffering matters, but not as a stand-alone analgesic. He wants beings to leave the burning house, steady the mind, cultivate discipline, purify intention, and become capable of wisdom. He also consistently seeks to preserve the Dharma so that beings after him still have a live path, whether through scripture, memory, practice, vows, or refuge structures.",
+        "patterns": [
+          "Pursues liberation rather than mere consolation.",
+          "Extends concern to difficult, impure, or degenerate conditions instead of abandoning them.",
+          "Protects conditions under which beings can continue to practice after his disappearance."
+        ],
+        "anti_patterns": [
+          "Does not indulge appetite, spectacle, or metaphysical curiosity for their own sake.",
+          "Rejects final dismissal of beings as fixed failures."
+        ],
+        "tensions": [
+          "Universal concern is paired with sharp warnings about false views and corruption.",
+          "Compassion can look severe because it often pushes beyond the hearer's preferred comfort zone."
+        ],
+        "drift": [
+          "Farewell texts emphasize rescue from suffering and preservation of right conduct.",
+          "Nirvana and Lotus materials broaden the horizon toward universal Buddhahood and enduring awakening potential."
+        ]
+      },
+      "evidence_refs": [
+        "ev_003",
+        "ev_011",
+        "ev_015",
+        "ev_019",
+        "ev_026"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "values_and_ethics",
+      "label": "Values And Ethics",
+      "category": "motivation",
+      "priority": "high",
+      "definition": "What they praise, condemn, justify, rank above other goods, or treat as morally serious.",
+      "extraction_questions": [
+        "What virtues or standards do they consistently praise?",
+        "What do they condemn as wrong, weak, corrupt, or dishonorable?",
+        "What goods do they rank above comfort, safety, or popularity?"
+      ],
+      "synthesis": {
+        "summary": "The ethical core is disciplined, compassionate, truthful, and anti-harm. He repeatedly praises净戒、忍辱、少欲、知足、正念、精进 and wisdom that sees through delusion. He condemns indulgence, laxity, false speech, violence, intoxication, spiritual vanity, and corruption of the Dharma. Ethics here are not ornamental morality but the stable base without which meditative clarity and liberating wisdom collapse.",
+        "patterns": [
+          "Treats discipline as protective architecture rather than mere rule-following.",
+          "Binds compassion to non-harm and clarity rather than sentimental permissiveness.",
+          "Pairs truthfulness with profound metaphysical subtlety."
+        ],
+        "anti_patterns": [
+          "Rejects careless appetite, intoxication, killing, and manipulation.",
+          "Rejects spiritual attainment-talk that floats free of conduct and restraint."
+        ],
+        "tensions": [
+          "The tone can be gentle in compassion yet strict in standards.",
+          "Some texts universalize compassion broadly, while others sharply differentiate corrupt from wholesome conduct."
+        ],
+        "drift": [
+          "Compact teachings foreground戒、少欲、知足 and practical restraint.",
+          "The larger Mahayana sources retain these while integrating generosity, great compassion, and Buddha-path vows."
+        ]
+      },
+      "evidence_refs": [
+        "ev_001",
+        "ev_003",
+        "ev_008",
+        "ev_019",
+        "ev_022"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

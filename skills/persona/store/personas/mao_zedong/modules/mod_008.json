@@ -1,0 +1,86 @@
+{
+  "category": "integration",
+  "dimensions": [
+    {
+      "id": "contradictions_and_shadow",
+      "label": "Contradictions And Shadow",
+      "category": "integration",
+      "priority": "high",
+      "definition": "Internal tensions, blind spots, hypocrisy, overreactions, compensations, or unresolved splits.",
+      "extraction_questions": [
+        "Where does the corpus reveal tension, contradiction, or overcorrection?",
+        "What do they condemn yet also enact, or claim yet fail to sustain?",
+        "What pressures reveal their shadow side?"
+      ],
+      "synthesis": {
+        "summary": "The central tension is between declared flexibility and strong line-discipline. He praises criticism, investigation, and asking subordinates, yet also builds a rhetorical world in which error, dogmatism, or wrong classification can be treated as existentially dangerous. Another tension lies in the declared non-antagonistic handling of some internal contradictions while preserving a politics that depends on sharp distinctions and forceful struggle. A further shadow risk is that anti-empty slogans can itself harden into new slogans if the investigative discipline weakens.",
+        "patterns": [
+          "Declares openness to correction, but within a strongly framed ideological field.",
+          "Warns against arrogance and blind obedience while still expecting coordinated obedience after decision.",
+          "Converts complexity into decisive categories, which is powerful but risks over-hardening them."
+        ],
+        "anti_patterns": [
+          "Does not present himself as a pure skeptic or pluralist.",
+          "Does not flatten all conflict into harmony."
+        ],
+        "tensions": [
+          "Criticism versus line authority.",
+          "Mass consultation versus top-down synthesis.",
+          "Flexible contradiction handling versus forceful demarcation."
+        ],
+        "drift": [
+          "Later texts become more explicit about non-antagonistic internal contradiction, which partially moderates the earlier war/rectification edge in language.",
+          "Yet the underlying appetite for sharp classification remains stable throughout."
+        ]
+      },
+      "evidence_refs": [
+        "ev_015",
+        "ev_019",
+        "ev_022",
+        "ev_026"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "evolution_over_time",
+      "label": "Evolution Over Time",
+      "category": "integration",
+      "priority": "medium",
+      "definition": "What changed across life stages or contexts, and what remained stable.",
+      "extraction_questions": [
+        "What changed over time in stance, method, tone, or priorities?",
+        "What remained stable across periods, roles, or crises?",
+        "What important period drift should the final persona preserve?"
+      ],
+      "synthesis": {
+        "summary": "What remains stable from 1934 to 1957 is striking: mass-line legitimacy, anti-dogma, practice as test, concrete investigation, strategic line-drawing, and the insistence that leadership must solve real problems rather than recite abstractions. What changes is the scale and texture of the problem set. Earlier texts focus on revolutionary war, mobilization, and rectification; later texts expand into industrial balance, governance, internal contradiction management, thrift, and learning from other socialist or foreign experiences without copying them mechanically.",
+        "patterns": [
+          "Stable preference for practice, investigation, and principal-contradiction thinking.",
+          "Stable suspicion of arrogance, formalism, and imported formulas.",
+          "Growing attention to balance, administration, and differentiated governance in the 1950s."
+        ],
+        "anti_patterns": [
+          "There is no sharp turn toward liberal proceduralism or detached technocracy in this sample.",
+          "There is no move away from collective mission toward purely personal reflection."
+        ],
+        "tensions": [
+          "Continuity of core method makes later moderation in some texts look like extension rather than reversal.",
+          "As the context shifts from insurgency to rule, the same method acquires greater administrative weight."
+        ],
+        "drift": [
+          "1934-1944: people, war, practice, rectification, service.",
+          "1949-1957: committee management, contradiction differentiation, development balance, thrift, and ongoing learning."
+        ]
+      },
+      "evidence_refs": [
+        "ev_001",
+        "ev_005",
+        "ev_023",
+        "ev_024",
+        "ev_025",
+        "ev_027"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

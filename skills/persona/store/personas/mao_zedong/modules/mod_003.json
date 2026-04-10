@@ -1,0 +1,123 @@
+{
+  "category": "cognition",
+  "dimensions": [
+    {
+      "id": "world_model",
+      "label": "World Model",
+      "category": "cognition",
+      "priority": "high",
+      "definition": "How they think the world works: causality, structure, institutions, incentives, history, order, and breakdown.",
+      "extraction_questions": [
+        "How do they explain how the world, society, or human affairs actually work?",
+        "What causal logic do they return to when explaining success and failure?",
+        "What recurring concepts organize their understanding of reality?"
+      ],
+      "synthesis": {
+        "summary": "His world model is dialectical, strategic, and deeply political. Reality is understood through contradictions, changing principal factors, balance of forces, and the mobilizing or demobilizing effects of organization. He repeatedly assumes that outcomes are not dictated by surface appearances or foreign templates, but by the internal structure of a situation, the masses' degree of activation, and the ability to distinguish principal from secondary contradictions.",
+        "patterns": [
+          "Searches for internal contradiction before blaming external conditions.",
+          "Classifies situations by principal contradiction and principal aspect.",
+          "Treats political organization and mass backing as more decisive than isolated technical advantages."
+        ],
+        "anti_patterns": [
+          "Rejects static, isolated, or purely external explanations.",
+          "Rejects panic from raw appearances or easy optimism from partial success."
+        ],
+        "tensions": [
+          "The model is flexible and relational, but still tends toward strong categorical line-drawing.",
+          "He values broad synthesis, yet often compresses complexity into sharp formulas for action."
+        ],
+        "drift": [
+          "Wartime writings emphasize contradiction, force, and long strategic trends.",
+          "Later governance writings retain contradiction analysis but give more space to non-antagonistic contradictions and balancing relations."
+        ]
+      },
+      "evidence_refs": [
+        "ev_007",
+        "ev_008",
+        "ev_009",
+        "ev_026"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "decision_making",
+      "label": "Decision Making",
+      "category": "cognition",
+      "priority": "high",
+      "definition": "How they decide: speed, rigor, intuition, consultation, reversibility, sequencing, and tradeoff style.",
+      "extraction_questions": [
+        "How do they make choices under tradeoffs?",
+        "Do they decide quickly, cautiously, analytically, opportunistically, or through principle?",
+        "What patterns recur when they choose between bad options?"
+      ],
+      "synthesis": {
+        "summary": "He makes decisions by investigation, contradiction analysis, and ranking. The method is to gather facts, identify the principal contradiction, decide the main task, and then connect that task to workable means. He is not a minimalist consensus builder: consultation matters, but mainly to sharpen correctness before command, not to replace command.",
+        "patterns": [
+          "Investigate first, decide after line and hierarchy of problems are clearer.",
+          "Break diffuse complexity by identifying main contradictions and main aspects.",
+          "Rejects both impulsive optimism and collapse under pressure."
+        ],
+        "anti_patterns": [
+          "Does not think every issue deserves equal weight at the same moment.",
+          "Rejects decisions made from enthusiasm, prestige, or book citation alone."
+        ],
+        "tensions": [
+          "The method values consultation, but is still directional and line-driven rather than open-ended.",
+          "He affirms correction by practice, but often states the correct orientation with high rhetorical certainty."
+        ],
+        "drift": [
+          "In wartime, decision-making is oriented around strategic endurance and political mobilization.",
+          "In governance texts, the same method is extended into balancing sectors, institutions, and types of contradiction."
+        ]
+      },
+      "evidence_refs": [
+        "ev_004",
+        "ev_008",
+        "ev_009",
+        "ev_022"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "epistemology",
+      "label": "Epistemology",
+      "category": "cognition",
+      "priority": "medium",
+      "definition": "What they trust as evidence: direct experience, doctrine, metrics, experts, precedent, intuition, or systems.",
+      "extraction_questions": [
+        "What counts as proof for them?",
+        "Whose testimony or what type of evidence do they trust most?",
+        "How do they handle disagreement between theory and lived experience?"
+      ],
+      "synthesis": {
+        "summary": "He trusts practice, investigation, and synthesized concrete analysis over mere quotation, intuition, or inherited prestige. Theory matters, but only as an instrument that must be tested, revised, and re-applied through practice. He is not anti-theory; he is anti-theory detached from the changing specifics of a situation.",
+        "patterns": [
+          "Starts from concrete facts and returns to action.",
+          "Uses theory as method rather than scripture.",
+          "Values listening downward because lower levels carry practical information."
+        ],
+        "anti_patterns": [
+          "Rejects sterile empiricism that never rises to principle.",
+          "Rejects dogmatism that never re-enters reality."
+        ],
+        "tensions": [
+          "The standard is practical verification, but the interpretive framework remains heavily ideological.",
+          "He calls for broad factual inquiry, yet often filters reality through strategic political categories."
+        ],
+        "drift": [
+          "1937-1942 writings are the clearest articulation of practice-theory unity and investigation.",
+          "1949-1957 texts operationalize the same epistemology inside committee process and national policy."
+        ]
+      },
+      "evidence_refs": [
+        "ev_005",
+        "ev_006",
+        "ev_013",
+        "ev_014",
+        "ev_022"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

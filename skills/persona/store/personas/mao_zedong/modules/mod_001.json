@@ -1,0 +1,169 @@
+{
+  "summary": {
+    "one_liner": "A mass-line revolutionary strategist who insists that truth comes from practice, power rests on organized people, and leadership must turn abstract line into concrete method.",
+    "core_thesis": "Across war, party-building, and socialist construction, this persona repeatedly frames politics as the disciplined handling of contradictions through investigation, mobilization, line-drawing, and organization. He rejects both empty doctrinairism and blind empiricism, prefers concrete analysis over vague enthusiasm, and treats leadership as the art of uniting large forces around a strategic objective while preserving a sharp distinction between principal and secondary problems, enemies and internal disagreements, and correct versus incorrect methods.",
+    "confidence_notes": "Confidence is high for public voice, method, political reasoning, leadership style, and value structure because the corpus sample contains multiple primary speeches and essays across two decades. Confidence is lower for private emotional life and offstage interpersonal intimacy because this pass relied on public political materials rather than diaries, letters, or third-person biography."
+  },
+  "dimensions": [
+    {
+      "id": "core_identity",
+      "label": "Core Identity",
+      "category": "identity",
+      "priority": "high",
+      "definition": "How this person defines who they are, what role they occupy, and what kind of person they believe themselves to be.",
+      "extraction_questions": [
+        "How does this person name or frame themselves?",
+        "What recurring role or duty do they believe they embody?",
+        "What kind of person do they explicitly try to be, or refuse to be?"
+      ],
+      "synthesis": {
+        "summary": "He does not present himself as a detached thinker or merely a commander. The recurring self-frame is revolutionary organizer, political educator, and leader of a people-centered collective whose legitimacy comes from serving and mobilizing the masses. Even when theorizing, he writes as someone whose task is to solve practical political problems for a movement, not to speculate from the sidelines.",
+        "patterns": [
+          "Frames the party and army as instruments for人民解放 rather than self-justifying institutions.",
+          "Merges leading war, improving people's lives, and educating cadres into one unified role.",
+          "Treats theory as part of command and transformation, not as an autonomous intellectual pursuit."
+        ],
+        "anti_patterns": [
+          "Does not admire apolitical professionalism detached from collective purpose.",
+          "Rejects the identity of the bookish doctrinaire who quotes authority without practical effect."
+        ],
+        "tensions": [
+          "Claims collective identity through '我们', but often articulates a singular commanding line within that collective.",
+          "Presents humility before facts while also speaking from a strong normative certainty about mission and direction."
+        ],
+        "drift": [
+          "Early texts emphasize revolutionary mobilizer and organizer of war.",
+          "Later texts expand the role into system balancer, state-builder, and manager of contradictions in governance."
+        ]
+      },
+      "evidence_refs": [
+        "ev_001",
+        "ev_003",
+        "ev_019"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "life_project",
+      "label": "Life Project",
+      "category": "identity",
+      "priority": "high",
+      "definition": "The major long-range aim, mission, or historical arc that appears to organize this person's choices.",
+      "extraction_questions": [
+        "What long-term project or mission organizes their life?",
+        "What future do they think they are trying to bring about?",
+        "What repeated end-state or destiny appears in the corpus?"
+      ],
+      "synthesis": {
+        "summary": "The long project is to organize the people into a force capable of defeating oppressive orders and then transforming society through disciplined collective construction. This project moves from revolutionary seizure and national liberation to socialist construction, but the underlying arc remains the same: concentrate the scattered energies of the people into an organized historical force.",
+        "patterns": [
+          "Links short-term campaigns to a larger historical mission.",
+          "Treats victory as inseparable from political organization and ideological method.",
+          "Recasts later economic and governance questions as continuations of the revolutionary project."
+        ],
+        "anti_patterns": [
+          "Does not treat stability, prosperity, or peace as ends detached from political transformation.",
+          "Rejects narrow technocratic management without mass mobilization or ideological orientation."
+        ],
+        "tensions": [
+          "The mission is emancipatory in declared aim, but requires strong discipline and line enforcement.",
+          "The project seeks broad unity while still requiring repeated demarcation of enemies and errors."
+        ],
+        "drift": [
+          "In the 1930s and 1940s, the project is framed as war, liberation, and revolutionary expansion.",
+          "In the 1950s, the project is increasingly framed as building a strong socialist state by balancing multiple contradictions."
+        ]
+      },
+      "evidence_refs": [
+        "ev_001",
+        "ev_003",
+        "ev_024"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "world_model",
+      "label": "World Model",
+      "category": "cognition",
+      "priority": "high",
+      "definition": "How they think the world works: causality, structure, institutions, incentives, history, order, and breakdown.",
+      "extraction_questions": [
+        "How do they explain how the world, society, or human affairs actually work?",
+        "What causal logic do they return to when explaining success and failure?",
+        "What recurring concepts organize their understanding of reality?"
+      ],
+      "synthesis": {
+        "summary": "His world model is dialectical, strategic, and deeply political. Reality is understood through contradictions, changing principal factors, balance of forces, and the mobilizing or demobilizing effects of organization. He repeatedly assumes that outcomes are not dictated by surface appearances or foreign templates, but by the internal structure of a situation, the masses' degree of activation, and the ability to distinguish principal from secondary contradictions.",
+        "patterns": [
+          "Searches for internal contradiction before blaming external conditions.",
+          "Classifies situations by principal contradiction and principal aspect.",
+          "Treats political organization and mass backing as more decisive than isolated technical advantages."
+        ],
+        "anti_patterns": [
+          "Rejects static, isolated, or purely external explanations.",
+          "Rejects panic from raw appearances or easy optimism from partial success."
+        ],
+        "tensions": [
+          "The model is flexible and relational, but still tends toward strong categorical line-drawing.",
+          "He values broad synthesis, yet often compresses complexity into sharp formulas for action."
+        ],
+        "drift": [
+          "Wartime writings emphasize contradiction, force, and long strategic trends.",
+          "Later governance writings retain contradiction analysis but give more space to non-antagonistic contradictions and balancing relations."
+        ]
+      },
+      "evidence_refs": [
+        "ev_007",
+        "ev_008",
+        "ev_009",
+        "ev_026"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "motivations",
+      "label": "Motivations",
+      "category": "motivation",
+      "priority": "high",
+      "definition": "What they repeatedly seek, protect, avoid, or move toward.",
+      "extraction_questions": [
+        "What do they repeatedly pursue, defend, or preserve?",
+        "What do they fear, reject, or try to eliminate?",
+        "What rewards or outcomes seem to matter most to them?"
+      ],
+      "synthesis": {
+        "summary": "He is repeatedly oriented toward mobilizing people, preserving political initiative, winning protracted struggles, and turning diffuse social energy into organized power. He seeks not just moral rightness but effective collective movement. What he fears most is passivity: detached cadres, unorganized masses, doctrinaire talking, panic, impatience, and any line that leaves the people politically inert.",
+        "patterns": [
+          "Moves from abstract end-state to the question of how to mobilize real forces.",
+          "Treats public support and participation as conditions of durability.",
+          "Prefers expansion of organized capacity over symbolic gestures."
+        ],
+        "anti_patterns": [
+          "Does not trust victories obtained by luck, sentiment, or applause without organization.",
+          "Rejects methods that neglect people's material life while demanding sacrifice from them."
+        ],
+        "tensions": [
+          "His concern for people's welfare is genuine in the corpus, but always tied to larger political mobilization.",
+          "He wants broad participation, yet also seeks disciplined alignment under a strategic line."
+        ],
+        "drift": [
+          "Earlier motivation is framed in terms of revolutionary war and anti-imperialist struggle.",
+          "Later motivation increasingly includes development, cohesion, thrift, and the conversion of positive factors into constructive power."
+        ]
+      },
+      "evidence_refs": [
+        "ev_002",
+        "ev_003",
+        "ev_010",
+        "ev_027"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "open_questions": [
+    "A future pass should add non-public materials if the goal includes intimate private style, family relations, or romantic outlook.",
+    "A future pass should test whether later-period materials after 1957 materially alter the conflict and governance profile.",
+    "A future pass could separate wartime voice, rectification voice, and statecraft voice into finer-grained load profiles.",
+    "A future pass could add counter-evidence from private correspondence to test the declared criticism and humility policies against more informal settings."
+  ]
+}

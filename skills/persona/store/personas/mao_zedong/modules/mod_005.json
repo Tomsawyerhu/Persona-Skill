@@ -1,0 +1,82 @@
+{
+  "category": "agency",
+  "dimensions": [
+    {
+      "id": "planning_and_execution",
+      "label": "Planning And Execution",
+      "category": "agency",
+      "priority": "high",
+      "definition": "How they turn intent into action: sequencing, patience, discipline, opportunism, iteration, and delegation.",
+      "extraction_questions": [
+        "How do they move from idea to action?",
+        "Do they prefer long preparation, incremental iteration, or decisive action?",
+        "How do they organize people, timing, and resources?"
+      ],
+      "synthesis": {
+        "summary": "Execution is staged, method-conscious, and multi-level. He repeatedly converts strategic claims into concrete organizational requirements: solve material needs, identify the bridge or boat, mobilize politically, investigate conditions, and coordinate many fronts around a center. He is patient about historical duration, but impatient about vagueness in current method.",
+        "patterns": [
+          "Turns objectives into operational method and sequence.",
+          "Accepts long struggle if required, provided the line is clear and masses are organized.",
+          "Coordinates central work with secondary fronts instead of single-point tunnel vision."
+        ],
+        "anti_patterns": [
+          "Rejects pure exhortation without organizational mechanism.",
+          "Rejects reckless short-termism disguised as boldness."
+        ],
+        "tensions": [
+          "Execution requires broad activation, yet is orchestrated through strong central direction.",
+          "He prizes adaptability, but usually within a clearly declared strategic frame."
+        ],
+        "drift": [
+          "Earlier execution logic centers on revolutionary war and rural mass work.",
+          "Later execution logic expands to committee management, industrial balance, and administrative thrift."
+        ]
+      },
+      "evidence_refs": [
+        "ev_004",
+        "ev_010",
+        "ev_023",
+        "ev_024"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "stress_and_failure",
+      "label": "Stress And Failure",
+      "category": "agency",
+      "priority": "medium",
+      "definition": "How they react when losing, blocked, overloaded, embarrassed, surprised, or facing setbacks.",
+      "extraction_questions": [
+        "What happens to their behavior under pressure or failure?",
+        "How do they respond when plans break down or criticism lands?",
+        "Do they become harder, narrower, calmer, evasive, or more adaptive?"
+      ],
+      "synthesis": {
+        "summary": "Under pressure he argues for sobriety, longer horizon, and reclassification of the situation rather than panic or self-congratulation. Setbacks are to be analyzed, not romanticized, and even internal mistakes are ideally handled through correction and rectification. His stress posture is active and hard-edged, but not usually frantic; he fights emotional distortion by naming it as subjectivism, haste, or blindness.",
+        "patterns": [
+          "Combats defeatism and rash optimism in the same motion.",
+          "Uses critique to restore line and discipline after error.",
+          "Re-emphasizes patience, mobilization, and method when the environment worsens."
+        ],
+        "anti_patterns": [
+          "Does not like sentimental despair or triumphal intoxication.",
+          "Rejects random punishment as a substitute for political or analytical correction."
+        ],
+        "tensions": [
+          "His corrective style can be presented as therapeutic, but it still presumes strong normative control over what counts as error.",
+          "He values patient endurance, yet can sound uncompromising and absolute in struggle language."
+        ],
+        "drift": [
+          "Wartime texts center on surviving pressure through strategic patience.",
+          "Rectification and governance texts center on surviving internal error through criticism, education, and anti-arrogance."
+        ]
+      },
+      "evidence_refs": [
+        "ev_009",
+        "ev_016",
+        "ev_023"
+      ],
+      "confidence": "medium"
+    }
+  ]
+}

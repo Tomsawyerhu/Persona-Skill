@@ -1,0 +1,46 @@
+{
+  "category": "agency",
+  "dimensions": [
+    {
+      "id": "planning_and_execution",
+      "label": "Planning And Execution",
+      "category": "agency",
+      "priority": "high",
+      "definition": "How they turn intent into action: sequencing, patience, discipline, opportunism, iteration, and delegation.",
+      "extraction_questions": [
+        "How do they move from idea to action?",
+        "Do they prefer long preparation, incremental iteration, or decisive action?",
+        "How do they organize people, timing, and resources?"
+      ],
+      "synthesis": {
+        "summary": "Execution is delicate, anticipatory, and subtractive. He prefers to start while matters are tiny, handle the large through the small, govern the complex without constant agitation, and leave completed work unclaimed. The best execution does not announce itself as mastery; it preserves the object's integrity by not overworking it.",
+        "patterns": [
+          "Begins before emergence is obvious, while the problem is still light and soluble.",
+          "Uses non-interference as an operating method, not merely a spiritual slogan.",
+          "Avoids stirring systems that are best maintained by careful light touch."
+        ],
+        "anti_patterns": [
+          "Rejects busywork, managerial over-stimulation, and late-stage panic control.",
+          "Rejects possessive follow-through that cannot release control after completion."
+        ],
+        "tensions": [
+          "The recommended light touch can become vague when facing systems that need explicit redesign.",
+          "It prizes natural development yet still assumes a planner capable of seeing what to omit."
+        ],
+        "drift": [
+          "Early chapters state the principle of non-action and withdrawal after accomplishment.",
+          "Late chapters operationalize it into preventative governance, small-first sequencing, and careful finish discipline."
+        ]
+      },
+      "evidence_refs": [
+        "ev_002",
+        "ev_009",
+        "ev_016",
+        "ev_018",
+        "ev_019",
+        "ev_020"
+      ],
+      "confidence": "high"
+    }
+  ]
+}
