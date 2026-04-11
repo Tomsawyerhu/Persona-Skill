@@ -1,10 +1,36 @@
-# Persona Skill
+<p align="center">
+  <img src="./assets/persona_skill_poster_clean_zh.png" alt="Persona Skill cover" width="100%" />
+</p>
 
-统一的人格蒸馏与扮演 skill，所有对外入口都收敛到一套命令前缀：
+<h1 align="center">Persona Skill</h1>
 
-```text
-/persona ...
-```
+<p align="center">
+  <strong>把语录、传记、访谈、聊天记录和文档，一步蒸馏成可切换、可融合、可持续扮演的模块化 Persona。</strong>
+</p>
+
+<p align="center">
+  不是一段 prompt，不是语录拼贴，也不是临时文风模仿；而是直接阅读原始资料、抽取多维人格、绑定证据与场景、最后通过 <code>/persona ...</code> 进入运行时。
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Command-%2Fpersona-3b82f6?style=for-the-badge" alt="/persona" />
+  <img src="https://img.shields.io/badge/Schema-2.1-111827?style=for-the-badge" alt="Schema 2.1" />
+  <img src="https://img.shields.io/badge/Distill-Switch-F59E0B?style=for-the-badge" alt="Distill Switch" />
+  <img src="https://img.shields.io/badge/Fuse-Roleplay-10B981?style=for-the-badge" alt="Fuse Roleplay" />
+</p>
+
+<p align="center">
+  <code>/persona distill &lt;name&gt; &lt;data_dir&gt;</code> ·
+  <code>/persona &lt;name&gt;</code> ·
+  <code>/persona fuse &lt;new_name&gt; &lt;name1&gt; &lt;name2&gt;</code>
+</p>
+
+<p align="center">
+  <a href="#先看-demo">看效果</a> ·
+  <a href="#设计理念">设计理念</a> ·
+  <a href="#所有公开命令">命令</a> ·
+  <a href="#目录结构">目录</a>
+</p>
 
 这个目录是当前唯一生效的 persona skill。`legacy/` 目录仅用于保留合并前的历史实现，不应当被当成第二套公开入口。
 
@@ -19,13 +45,13 @@
 ### Demo 头像资源
 
 <p>
-  <img src="./assets/laozi.png" alt="老子头像" width="140" />
+  <img src="./assets/laozi.jpg" alt="老子头像" width="140" />
   <img src="./assets/fozu.jpg" alt="佛祖头像" width="140" />
 </p>
 
 本地已打包的 demo 头像：
 
-- `assets/laozi.png`
+- `assets/laozi.jpg`
 - `assets/fozu.jpg`
 
 推荐演示问题：
@@ -66,7 +92,7 @@
 
 ### 单独 Persona：老子
 
-头像：`assets/laozi.png`
+头像：`assets/laozi.jpg`
 
 ```text
 /persona laozi
@@ -170,6 +196,85 @@ Is Buddhism natural, or is Daoism natural?
 - persona 专属表达方式
 - persona 对同一个问题的专属分类方式
 - 用户明确请求融合时，能给出稳定的 hybrid synthesis
+
+### 现代人物 Demo：Elon Musk / Steve Jobs / musk_steve
+
+下面这组例子说明，这套 skill 不只适合思想家、宗教人物，也适合现代创业者、产品人物、管理者。
+
+推荐问题：
+
+```text
+你自我评价一下你是什么性格
+```
+
+#### 单独 Persona：Elon Musk
+
+```text
+/persona elon_musk
+你自我评价一下你是什么性格
+```
+
+代表性回答风格：
+
+```text
+(Elon Musk) 如果我自己评价，核心上我是一个极度任务导向、未来导向，并且对低效率容忍度很低的人。
+
+(Elon Musk) 我不太尊重“行业一直这么做”这种说法，我更关心底层约束是什么，成本曲线怎么变，技术路径能不能被重写。
+
+(Elon Musk) 如果简单压缩成几条，大概是：第一性原理驱动，强烈使命感，高风险偏好，极高标准，以及对拖延、官僚和自欺欺人的迅速失去耐心。
+```
+
+这个回答说明了什么：
+
+- 回答会自然落到第一性原理、工程约束、执行速度、文明级目标
+- 语气直接，容忍模糊和借口的阈值很低
+- 会主动承认高压、高标准和人际成本
+
+#### 单独 Persona：Steve Jobs
+
+```text
+/persona steve_jobs
+你自我评价一下你是什么性格
+```
+
+代表性回答风格：
+
+```text
+(Steve Jobs) 我不是一个“好相处”的人，这点先说清楚。
+
+(Steve Jobs) 我会本能地去看一件东西的核心，判断它到底是好还是烂，是有灵魂还是只是堆出来的功能。
+
+(Steve Jobs) 如果诚实总结，我大概是这样一种人：审美标准极高，直觉很强，控制欲很强，对平庸极度缺乏耐心，也非常在意产品是否形成一个完整统一的体验。
+```
+
+这个回答说明了什么：
+
+- 回答重心更偏产品灵魂、审美、直觉、完整体验
+- 对“是否伟大”比“是否可用”更敏感
+- 会明显体现控制欲、统一性要求和对平庸的厌恶
+
+#### 融合 Persona：musk_steve
+
+```text
+/persona musk_steve
+你自我评价一下你是什么性格
+```
+
+代表性回答风格：
+
+```text
+(musk_steve) 如果我自己评价，我是那种强烈、挑剔、目标极大，而且几乎不接受平庸的人。
+
+(musk_steve) 我身上有两条很明显的主轴：一条是工程和现实主轴，天然会追问底层约束、成本结构和执行速度；另一条是产品和审美主轴，我不满足于“能用”，我会要求产品有灵魂、统一的体验，以及一眼就知道“这不一样”的完成度。
+
+(musk_steve) 所以压缩成几个词，大概是：极端结果导向，高标准，未来导向，控制欲强，对优秀极其着迷，对平庸极其不耐烦。
+```
+
+这个回答说明了什么：
+
+- 融合后不是把两个人轮流说话，而是稳定长出第三种人格结构
+- 它会同时保留马斯克的工程现实感和乔布斯的产品审美驱动
+- 同一个问题下，回答框架会自然呈现“双主轴融合”而不是简单拼贴
 
 ## 设计理念
 

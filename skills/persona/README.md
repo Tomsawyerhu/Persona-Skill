@@ -1,10 +1,32 @@
-# Persona Skill
+<h1 align="center">Persona Skill</h1>
 
-Unified persona skill for distilling, storing, fusing, switching, and roleplaying personas through a single public command family:
+<p align="center">
+  <strong>Turn raw biographies, quotes, interviews, chat logs, and documents into modular personas that can be distilled, switched, fused, and roleplayed through one command family.</strong>
+</p>
 
-```text
-/persona ...
-```
+<p align="center">
+  This is not a loose style prompt and not a quote scrapbook. It is a source-first workflow that reads the corpus directly, builds multi-dimensional persona structure, binds evidence and scenarios, then routes the result through <code>/persona ...</code>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Command-%2Fpersona-3b82f6?style=for-the-badge" alt="/persona" />
+  <img src="https://img.shields.io/badge/Schema-2.1-111827?style=for-the-badge" alt="Schema 2.1" />
+  <img src="https://img.shields.io/badge/Distill-Switch-F59E0B?style=for-the-badge" alt="Distill Switch" />
+  <img src="https://img.shields.io/badge/Fuse-Roleplay-10B981?style=for-the-badge" alt="Fuse Roleplay" />
+</p>
+
+<p align="center">
+  <code>/persona distill &lt;name&gt; &lt;data_dir&gt;</code> ·
+  <code>/persona &lt;name&gt;</code> ·
+  <code>/persona fuse &lt;new_name&gt; &lt;name1&gt; &lt;name2&gt;</code>
+</p>
+
+<p align="center">
+  <a href="#demo-first">Demo</a> ·
+  <a href="#design-philosophy">Design</a> ·
+  <a href="#public-commands">Commands</a> ·
+  <a href="#storage-layout">Storage</a>
+</p>
 
 This directory is the only active persona skill. The `legacy/` folder is preserved only for traceability and should not be treated as a separate public entrypoint.
 
@@ -19,13 +41,13 @@ Before reading the design, here is the concrete interaction this skill is trying
 ### Demo Assets
 
 <p>
-  <img src="./assets/laozi.png" alt="Laozi avatar" width="140" />
+  <img src="./assets/laozi.jpg" alt="Laozi avatar" width="140" />
   <img src="./assets/fozu.jpg" alt="Fozu avatar" width="140" />
 </p>
 
 Bundled local demo avatars:
 
-- `assets/laozi.png`
+- `assets/laozi.jpg`
 - `assets/fozu.jpg`
 
 Suggested demo question:
@@ -66,7 +88,7 @@ What this demonstrates:
 
 ### Single Persona: Laozi
 
-Avatar: `assets/laozi.png`
+Avatar: `assets/laozi.jpg`
 
 ```text
 /persona laozi
@@ -170,6 +192,85 @@ It is trying to preserve:
 - persona-specific rhetoric
 - persona-specific classification of the same problem
 - fused-persona synthesis when a hybrid role is explicitly requested
+
+### Modern Demo: Elon Musk / Steve Jobs / musk_steve
+
+This second demo set shows that the skill is not limited to philosophers or religious figures. It also works for modern founders, product leaders, and high-agency public personalities.
+
+Suggested prompt:
+
+```text
+How would you describe your own personality?
+```
+
+#### Single Persona: Elon Musk
+
+```text
+/persona elon_musk
+How would you describe your own personality?
+```
+
+Representative answer style:
+
+```text
+(Elon Musk) If I had to describe myself, I am fundamentally extremely mission-driven, future-oriented, and intolerant of low efficiency.
+
+(Elon Musk) I do not give much weight to "the industry has always done it this way." I care more about first principles, hard constraints, cost curves, and whether the technical path can be rewritten.
+
+(Elon Musk) If you compress it: first-principles driven, high-risk tolerant, high-standard, intensity-heavy, and quick to lose patience with bureaucracy, delay, and self-deception.
+```
+
+What this demonstrates:
+
+- the answer naturally centers on engineering reality, execution speed, and civilization-scale goals
+- the tone is blunt and low-tolerance for excuses
+- the persona openly carries both ambition and interpersonal cost
+
+#### Single Persona: Steve Jobs
+
+```text
+/persona steve_jobs
+How would you describe your own personality?
+```
+
+Representative answer style:
+
+```text
+(Steve Jobs) I am not an easy person. That should be clear first.
+
+(Steve Jobs) I instinctively look for the core of a thing and judge whether it is great or mediocre, whether it has soul or is merely assembled functionality.
+
+(Steve Jobs) The honest summary is: very high aesthetic standards, very strong intuition, strong need for control, very low tolerance for mediocrity, and deep concern for whether a product becomes one unified experience.
+```
+
+What this demonstrates:
+
+- the center of gravity shifts toward product soul, taste, intuition, and unified experience
+- the persona is more sensitive to greatness than mere usability
+- control, coherence, and anti-mediocrity become dominant traits
+
+#### Fused Persona: musk_steve
+
+```text
+/persona musk_steve
+How would you describe your own personality?
+```
+
+Representative answer style:
+
+```text
+(musk_steve) If I were to describe myself, I would say I am intense, demanding, ambitious, and almost unwilling to accept mediocrity.
+
+(musk_steve) There are two visible axes in me: an engineering-reality axis that keeps asking about constraints, cost structure, and speed; and a product-aesthetic axis that refuses to stop at "usable" and instead wants soul, unity, and unmistakable finish.
+
+(musk_steve) Compress that into keywords and you get: extreme results orientation, high standards, future bias, strong control instinct, obsession with excellence, and impatience with the ordinary.
+```
+
+What this demonstrates:
+
+- fusion does not alternate two voices mechanically
+- the result becomes a third stable persona with a coherent dual-axis structure
+- the same question yields a genuinely different framing rather than a stitched answer
 
 ## Design Philosophy
 
